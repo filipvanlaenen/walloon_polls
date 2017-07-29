@@ -3,12 +3,6 @@
 1. Add a table to the poll page with the probabilities to reach the threshold or
    to gain a majority in number of votes and number of seats, or add them as a
    column to the existing tables
-1. Mark the median (i.e. poll result) in the graph with the voting intentions
-   with two outward ticks or a line
-1. Mark the median in the graph with the seat projections with two outward ticks
-   or a line
-1. Mark the median in the graph with the seat projections for coalitions with
-   two outward ticks or a line
 1. Add the probability to gain a majority to the table of confidence intervals
    for the coalitions
 1. Add a graph with the probability per number of seats and the accumulation
@@ -29,12 +23,6 @@
    the hatched areas and the red line
 1. Add a legend to the graph with the seat projections for coalitions explaining
    the filled and the hatched areas and the red line
-1. Add last election's results to the graph with the voting intentions
-   (including its legend)
-1. Add last election's results to the graph with the seat projections (including
-   its legend)
-1. Add last election's results to the graph with the seat projections for
-   coalitions (including its legend)
 1. Mark the last election's result and the median in the seat probabilities
    table in a column named "special marks"
 1. Add an overview page for each pollster
