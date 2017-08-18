@@ -25,7 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **DÉFI:** DéFI
 + **DROITE:** La Droite
 + **RWF:** R.W.F.
-+ **WDA:** Wallonie d'Abord
++ **WDA:** Wallonie d’Abord
 + **PIRATE:** PIRATE
 + **FW:** FW
 + **N/A (single party):** Party not included the published results
@@ -52,7 +52,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#défi">DéFI</a> | 0 | 0 | 0–1 |0–1 | 0–2 | 0–3 |
 | <a href="#la-droite">La Droite</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#r.w.f.">R.W.F.</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#wallonie-d'abord">Wallonie d'Abord</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#pirate">PIRATE</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#fw">FW</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
@@ -186,18 +186,18 @@ Only polls for which at least the sample size has been published are included in
 
 ### Confidence Intervals
 
-| Coalition | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| PS – Ecolo – PTB | 36 | 45 | 42–48 | 41–49 | 41–49 | 39–50 |
-| PS – MR – Ecolo | 59 | 45 | 41–47 | 41–48 | 40–48 | 39–50 |
-| PS – cdH – PTB | 45 | 43 | 41–47 | 40–47 | 39–48 | 38–49 |
-| MR – cdH – Ecolo | 42 | 38 | 36–40 | 35–41 | 35–42 | 33–43 |
-| PS – PTB | 32 | 36 | 33–38 | 32–39 | 32–39 | 30–41 |
-| PS – MR | 55 | 35 | 33–38 | 32–39 | 31–39 | 30–40 |
-| PS – cdH – Ecolo | 47 | 31 | 28–33 | 27–34 | 27–35 | 25–36 |
-| MR – Ecolo | 29 | 31 | 27–33 | 27–33 | 26–34 | 25–35 |
-| MR – cdH | 38 | 29 | 26–31 | 25–32 | 25–33 | 24–34 |
-| PS – cdH | 43 | 21 | 19–25 | 18–25 | 18–26 | 17–26 |
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| PS – Ecolo – PTB | 36 | 45 | 100% | 42–48 | 41–49 | 41–49 | 39–50 |
+| PS – MR – Ecolo | 59 | 45 | 100% | 41–47 | 41–48 | 40–48 | 39–50 |
+| PS – cdH – PTB | 45 | 43 | 99.7% | 41–47 | 40–47 | 39–48 | 38–49 |
+| MR – cdH – Ecolo | 42 | 38 | 57% | 36–40 | 35–41 | 35–42 | 33–43 |
+| PS – PTB | 32 | 36 | 16% | 33–38 | 32–39 | 32–39 | 30–41 |
+| PS – MR | 55 | 35 | 13% | 33–38 | 32–39 | 31–39 | 30–40 |
+| PS – cdH – Ecolo | 47 | 31 | 0.1% | 28–33 | 27–34 | 27–35 | 25–36 |
+| MR – Ecolo | 29 | 31 | 0% | 27–33 | 27–33 | 26–34 | 25–35 |
+| MR – cdH | 38 | 29 | 0% | 26–31 | 25–32 | 25–33 | 24–34 |
+| PS – cdH | 43 | 21 | 0% | 19–25 | 18–25 | 18–26 | 17–26 |
 
 ### PS – Ecolo – PTB
 
