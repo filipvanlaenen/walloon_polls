@@ -21,7 +21,7 @@
 | FW | 0.1% | 1.5% | 1.1–2.3% |0.9–2.6% |0.8–2.8% |0.7–3.2% |
 | R.W.F. | 0.5% | 0.6% | 0.4–1.2% |0.3–1.4% |0.2–1.6% |0.2–1.9% |
 | PIRATE | 0.2% | 0.6% | 0.4–1.2% |0.3–1.4% |0.2–1.6% |0.2–1.9% |
-| Wallonie d'Abord | 0.4% | 0.5% | 0.3–1.0% |0.2–1.2% |0.2–1.3% |0.1–1.7% |
+| Wallonie d’Abord | 0.4% | 0.5% | 0.3–1.0% |0.2–1.2% |0.2–1.3% |0.1–1.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -44,7 +44,7 @@
 | <a href="#fw">FW</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#r.w.f.">R.W.F.</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#pirate">PIRATE</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#wallonie-d'abord">Wallonie d'Abord</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### PS
 
@@ -191,7 +191,7 @@
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
-### Wallonie d'Abord
+### Wallonie d’Abord
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -204,18 +204,18 @@
 
 ### Confidence Intervals
 
-| Coalition | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| PS – MR – Ecolo | 59 | 51 | 50–53 | 50–55 | 49–55 | 47–55 |
-| PS – PTB – Ecolo | 36 | 45 | 39–49 | 39–49 | 39–49 | 39–51 |
-| PS – PTB – cdH | 45 | 41 | 39–47 | 39–47 | 39–47 | 39–48 |
-| PS – MR | 55 | 41 | 41–46 | 40–46 | 38–47 | 37–47 |
-| MR – Ecolo – cdH | 42 | 36 | 34–39 | 34–41 | 34–44 | 34–44 |
-| PS – Ecolo – cdH | 47 | 37 | 31–39 | 31–40 | 31–41 | 31–45 |
-| PS – PTB | 32 | 35 | 33–39 | 31–41 | 31–41 | 31–41 |
-| MR – cdH | 38 | 26 | 26–33 | 26–33 | 25–36 | 24–36 |
-| MR – Ecolo | 29 | 30 | 28–33 | 28–33 | 28–34 | 26–34 |
-| PS – cdH | 43 | 27 | 25–30 | 25–31 | 25–32 | 25–33 |
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| PS – MR – Ecolo | 59 | 51 | 100% | 50–53 | 50–55 | 49–55 | 47–55 |
+| PS – PTB – Ecolo | 36 | 45 | 100% | 39–49 | 39–49 | 39–49 | 39–51 |
+| PS – PTB – cdH | 45 | 41 | 99.9% | 39–47 | 39–47 | 39–47 | 39–48 |
+| PS – MR | 55 | 41 | 99.3% | 41–46 | 40–46 | 38–47 | 37–47 |
+| MR – Ecolo – cdH | 42 | 36 | 33% | 34–39 | 34–41 | 34–44 | 34–44 |
+| PS – Ecolo – cdH | 47 | 37 | 16% | 31–39 | 31–40 | 31–41 | 31–45 |
+| PS – PTB | 32 | 35 | 20% | 33–39 | 31–41 | 31–41 | 31–41 |
+| MR – cdH | 38 | 26 | 0% | 26–33 | 26–33 | 25–36 | 24–36 |
+| MR – Ecolo | 29 | 30 | 0% | 28–33 | 28–33 | 28–34 | 26–34 |
+| PS – cdH | 43 | 27 | 0% | 25–30 | 25–31 | 25–32 | 25–33 |
 
 ### PS – MR – Ecolo
 
