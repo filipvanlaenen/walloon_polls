@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **DÉFI:** DéFI
 + **DROITE:** La Droite
 + **RWF:** R.W.F.
-+ **WDA:** Wallonie d'Abord
++ **WDA:** Wallonie d’Abord
 + **PIRATE:** PIRATE
 + **FW:** FW
 + **N/A (single party):** Party not included the published results
