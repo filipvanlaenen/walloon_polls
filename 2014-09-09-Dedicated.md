@@ -34,17 +34,17 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ps">PS</a> | 30 | 27 | 24–31 |24–31 |24–31 |23–31 |
-| <a href="#mr">MR</a> | 25 | 24 | 20–25 |20–25 |18–27 |18–28 |
-| <a href="#cdh">cdH</a> | 13 | 11 | 8–12 |8–12 |8–12 |7–12 |
-| <a href="#ecolo">Ecolo</a> | 4 | 6 | 5–7 |5–8 |4–8 |4–8 |
-| <a href="#ptb">PTB</a> | 2 | 6 | 3–8 |3–8 |3–8 |3–8 |
-| <a href="#parti-populaire">Parti Populaire</a> | 1 | 1 | 0–3 |0–3 |0–4 |0–5 |
+| <a href="#ps">PS</a> | 30 | 27 | 24–29 |24–31 |23–31 |23–34 |
+| <a href="#mr">MR</a> | 25 | 24 | 20–25 |20–25 |19–26 |18–28 |
+| <a href="#cdh">cdH</a> | 13 | 11 | 9–12 |8–12 |8–12 |6–13 |
+| <a href="#ecolo">Ecolo</a> | 4 | 6 | 5–6 |5–7 |4–8 |3–9 |
+| <a href="#ptb">PTB</a> | 2 | 6 | 4–8 |4–8 |3–8 |3–8 |
+| <a href="#parti-populaire">Parti Populaire</a> | 1 | 2 | 0–3 |0–3 |0–4 |0–4 |
 | <a href="#défi">DéFI</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#la-droite">La Droite</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#pirate">PIRATE</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#pirate">PIRATE</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
 | <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#debout-les-belges">Debout les Belges</a> | N/A | 0 | 0 |0 |0–2 |0–2 |
+| <a href="#debout-les-belges">Debout les Belges</a> | N/A | 0 | 0 |0 |0 |0–2 |
 | <a href="#fw">FW</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#r.w.f.">R.W.F.</a> | 0 | 0 | 0 |0 |0 |0 |
 
