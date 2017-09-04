@@ -60,6 +60,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### PS
 
+*For a full overview of the results for this party, see the [PS](party-ps.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
@@ -88,6 +90,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### MR
 
+*For a full overview of the results for this party, see the [MR](party-mr.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
@@ -107,6 +111,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### cdH
 
+*For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% |  |
@@ -121,6 +127,8 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 0% | Last Result |
 
 ### Ecolo
+
+*For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -137,6 +145,8 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0% | 0% |  |
 
 ### PTB
+
+*For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -170,6 +180,8 @@ Only polls for which at least the sample size has been published are included in
 | 29 | 0% | 0% |  |
 
 ### DéFI
+
+*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
