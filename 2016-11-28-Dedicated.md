@@ -48,6 +48,8 @@
 
 ### PS
 
+*For a full overview of the results for this party, see the [PS](party-ps.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.5% | 100% |  |
@@ -67,6 +69,8 @@
 
 ### MR
 
+*For a full overview of the results for this party, see the [MR](party-mr.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
@@ -85,6 +89,8 @@
 | 28 | 0% | 0% |  |
 
 ### PTB
+
+*For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -111,6 +117,8 @@
 
 ### Ecolo
 
+*For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
@@ -127,6 +135,8 @@
 
 ### cdH
 
+*For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
@@ -142,6 +152,8 @@
 
 ### Parti Populaire
 
+*For a full overview of the results for this party, see the [Parti Populaire](party-partipopulaire.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 30% | 100% |  |
@@ -154,6 +166,8 @@
 
 ### DéFI
 
+*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Last Result, Median |
@@ -161,6 +175,8 @@
 | 2 | 0% | 0% |  |
 
 ### La Droite
+
+*For a full overview of the results for this party, see the [La Droite](party-ladroite.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -172,6 +188,8 @@
 
 ### FW
 
+*For a full overview of the results for this party, see the [FW](party-fw.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 99.7% | 100% | Last Result, Median |
@@ -181,11 +199,15 @@
 
 ### R.W.F.
 
+*For a full overview of the results for this party, see the [R.W.F.](party-rwf.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### PIRATE
+
+*For a full overview of the results for this party, see the [PIRATE](party-pirate.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -195,6 +217,8 @@
 | 3 | 0% | 0% |  |
 
 ### Wallonie d’Abord
+
+*For a full overview of the results for this party, see the [Wallonie d’Abord](party-walloniedabord.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

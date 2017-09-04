@@ -36,6 +36,8 @@
 
 ### PTB
 
+*For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
@@ -69,6 +71,8 @@
 
 ### MR
 
+*For a full overview of the results for this party, see the [MR](party-mr.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
@@ -87,6 +91,8 @@
 | 28 | 0% | 0% |  |
 
 ### PS
+
+*For a full overview of the results for this party, see the [PS](party-ps.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -116,6 +122,8 @@
 
 ### Ecolo
 
+*For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
@@ -132,6 +140,8 @@
 
 ### cdH
 
+*For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% |  |
@@ -146,6 +156,8 @@
 | 13 | 0% | 0% | Last Result |
 
 ### DéFI
+
+*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
