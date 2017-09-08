@@ -10,6 +10,7 @@ Last result: **8.6%** (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12.7% | 11.4–14.2% | 11.1–14.6% | 10.7–15.0% | 10.2–15.7% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 11.4% | 9.9–13.2% | 9.4–13.7% | 9.1–14.1% | 8.4–15.0% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.3% | 9.9–13.0% | 9.5–13.5% | 9.2–14.0% | 8.5–14.8% |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–16.0% | 11.1–16.7% |
@@ -27,7 +28,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–11 | 6–11 | 6–12 | 6–13 |
+| N/A | [Poll Average](average.html) | 11 | 7–12 | 6–13 | 6–13 | 6–13 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11 | 10–13 | 9–13 | 8–13 | 7–13 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 9 | 6–11 | 6–11 | 6–12 | 6–13 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 6–11 | 6–11 | 6–12 | 6–13 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 11 | 11–13 | 10–13 | 9–13 | 8–13 |
@@ -43,14 +45,15 @@ The following table shows the probability mass function for the [poll average](a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 12% | 100% |  |
-| 7 | 11% | 88% |  |
-| 8 | 9% | 77% |  |
-| 9 | 19% | 68% | Median |
-| 10 | 14% | 49% |  |
-| 11 | 32% | 35% |  |
-| 12 | 1.4% | 3% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0% |  |
+| 6 | 6% | 100% |  |
+| 7 | 6% | 94% |  |
+| 8 | 5% | 88% |  |
+| 9 | 12% | 83% |  |
+| 10 | 16% | 71% |  |
+| 11 | 37% | 54% | Median |
+| 12 | 11% | 17% |  |
+| 13 | 6% | 6% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 

@@ -10,6 +10,7 @@ Last result: **15.2%** (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8.8% | 7.7–10.0% | 7.4–10.4% | 7.1–10.7% | 6.6–11.4% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 9.8% | 8.4–11.4% | 8.0–11.9% | 7.7–12.3% | 7.1–13.2% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.9% | 10.5–13.7% | 10.0–14.2% | 9.7–14.6% | 9.0–15.5% |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
@@ -27,7 +28,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–10 | 5–10 | 5–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 6 | 5–10 | 5–10 | 5–10 | 5–11 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6 | 5–8 | 5–8 | 5–9 | 5–10 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 7 | 5–10 | 5–10 | 5–10 | 5–11 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 10 | 9–12 | 8–12 | 7–12 | 6–13 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 7 | 6–10 | 5–10 | 5–10 | 5–10 |
@@ -41,15 +43,15 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% |  |
-| 5 | 20% | 99.9% |  |
-| 6 | 21% | 80% |  |
-| 7 | 12% | 59% | Median |
-| 8 | 10% | 48% |  |
-| 9 | 17% | 38% |  |
-| 10 | 20% | 21% |  |
-| 11 | 0.5% | 1.0% |  |
-| 12 | 0.5% | 0.5% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 23% | 99.7% |  |
+| 6 | 37% | 77% | Median |
+| 7 | 11% | 40% |  |
+| 8 | 8% | 29% |  |
+| 9 | 10% | 21% |  |
+| 10 | 11% | 11% |  |
+| 11 | 0.3% | 0.5% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
 

@@ -10,6 +10,7 @@ Last result: **1.4%** (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 1.6% | 1.2–2.2% | 1.0–2.4% | 0.9–2.6% | 0.8–2.9% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.5% | 1.9–3.5% | 1.7–3.7% | 1.6–4.0% | 1.3–4.5% |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 0.0% | N/A | N/A | N/A | N/A |
@@ -27,7 +28,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 0 | 0 | 0 | 0 | 0 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR |  |  |  |  |  |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 0 | 0 | 0 | 0 | 0 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
@@ -38,4 +40,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 ### Probability Mass Function
 
 The following table shows the probability mass function for the [poll average](average.html) for La Droite.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 

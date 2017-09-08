@@ -10,6 +10,7 @@ Last result: **5.8%** (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17.5% | 16.0–19.2% | 15.6–19.6% | 15.2–20.0% | 14.5–20.9% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 25.0% | 22.8–27.3% | 22.2–27.9% | 21.7–28.5% | 20.7–29.6% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 20.0% | 18.2–22.1% | 17.6–22.7% | 17.2–23.2% | 16.3–24.2% |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 17.4% | 15.9–19.0% | 15.5–19.5% | 15.2–19.9% | 14.5–20.7% |
@@ -27,7 +28,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–24 | 19–24 | 17–26 |
+| N/A | [Poll Average](average.html) | 18 | 14–22 | 13–24 | 13–24 | 12–25 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 13–17 | 13–17 | 13–18 | 11–18 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 22 | 20–24 | 19–24 | 19–24 | 17–26 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 15 | 13–16 | 12–17 | 12–17 | 11–17 |
@@ -50,24 +52,23 @@ The following table shows the probability mass function for the [poll average](a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 1.0% | 100% |  |
-| 18 | 1.2% | 99.0% |  |
-| 19 | 5% | 98% |  |
-| 20 | 19% | 93% |  |
-| 21 | 12% | 73% |  |
-| 22 | 42% | 62% | Median |
-| 23 | 8% | 19% |  |
-| 24 | 9% | 12% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.5% | 0.8% |  |
-| 27 | 0.3% | 0.4% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 0.7% | 99.7% |  |
+| 13 | 5% | 99.0% |  |
+| 14 | 9% | 94% |  |
+| 15 | 10% | 84% |  |
+| 16 | 18% | 75% |  |
+| 17 | 6% | 57% |  |
+| 18 | 2% | 51% | Median |
+| 19 | 3% | 49% |  |
+| 20 | 10% | 46% |  |
+| 21 | 6% | 37% |  |
+| 22 | 21% | 31% |  |
+| 23 | 4% | 10% |  |
+| 24 | 5% | 6% |  |
+| 25 | 0.8% | 1.2% |  |
+| 26 | 0.2% | 0.4% |  |
+| 27 | 0.1% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 
