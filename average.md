@@ -2,6 +2,8 @@
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
+## Summary
+
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
 | Period     | Pollster/Media   | PS | MR | CDH | ECOLO | PTB | PP | DÉFI | DROITE | DLB | RWF | WDA | PIRATE | FW |
@@ -36,6 +38,8 @@ Only polls for which at least the sample size has been published are included in
 ## Voting Intentions
 
 ![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+
+### Confidence Intervals
 
 ## Seats
 
