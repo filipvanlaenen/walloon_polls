@@ -8,8 +8,9 @@ Last result: **15.2%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 9.3% | 7.9–10.9% | 7.6–11.5% | 7.3–11.9% | 6.8–12.8% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8.8% | 7.7–10.0% | 7.4–10.4% | 7.1–10.7% | 6.6–11.4% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 9.8% | 8.4–11.4% | 8.0–11.9% | 7.7–12.3% | 7.1–13.2% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.9% | 10.5–13.7% | 10.0–14.2% | 9.7–14.6% | 9.0–15.5% |
@@ -19,6 +20,23 @@ Last result: **15.2%** (General Election of 25 May 2014)
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12.7% | 11.2–14.5% | 10.8–15.0% | 10.4–15.5% | 9.7–16.3% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for cdH.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 4% | 99.8% |  |
+| 7.5–8.5% | 21% | 95% |  |
+| 8.5–9.5% | 34% | 74% | Median |
+| 9.5–10.5% | 25% | 40% |  |
+| 10.5–11.5% | 11% | 16% |  |
+| 11.5–12.5% | 4% | 4% |  |
+| 12.5–13.5% | 0.8% | 0.9% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% | Last Result |
+
 
 ## Seats
 
@@ -39,7 +57,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for cdH.
+The following table shows the probability mass function per seat for the [poll average](average.html) for cdH.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

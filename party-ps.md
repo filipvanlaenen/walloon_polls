@@ -8,8 +8,9 @@ Last result: **30.9%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 18.6% | 14.9–21.9% | 14.3–22.5% | 13.8–23.0% | 12.9–23.9% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 20.7% | 19.1–22.5% | 18.7–23.0% | 18.3–23.4% | 17.5–24.3% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 16.0% | 14.3–18.0% | 13.7–18.6% | 13.3–19.1% | 12.5–20.1% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 21.4% | 19.4–23.5% | 18.9–24.1% | 18.4–24.6% | 17.5–25.7% |
@@ -19,6 +20,33 @@ Last result: **30.9%** (General Election of 25 May 2014)
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31.1% | 28.9–33.4% | 28.2–34.1% | 27.7–34.7% | 26.6–35.8% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for PS.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 2% | 99.7% |  |
+| 13.5–14.5% | 5% | 98% |  |
+| 14.5–15.5% | 11% | 93% |  |
+| 15.5–16.5% | 13% | 82% |  |
+| 16.5–17.5% | 11% | 69% |  |
+| 17.5–18.5% | 7% | 58% |  |
+| 18.5–19.5% | 9% | 51% | Median |
+| 19.5–20.5% | 13% | 42% |  |
+| 20.5–21.5% | 15% | 29% |  |
+| 21.5–22.5% | 9% | 14% |  |
+| 22.5–23.5% | 4% | 5% |  |
+| 23.5–24.5% | 0.8% | 1.0% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 0% |  |
+| 29.5–30.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 0% | Last Result |
+
 
 ## Seats
 
@@ -39,7 +67,7 @@ Last result: **30** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for PS.
+The following table shows the probability mass function per seat for the [poll average](average.html) for PS.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

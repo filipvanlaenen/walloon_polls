@@ -8,8 +8,9 @@ Last result: **2.5%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 5.2% | 3.3–7.0% | 3.0–7.4% | 2.8–7.7% | 2.4–8.3% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6.2% | 5.3–7.4% | 5.1–7.7% | 4.9–8.0% | 4.5–8.5% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 3.8% | 3.0–5.0% | 2.8–5.3% | 2.6–5.7% | 2.2–6.3% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.4% | 1.8–3.3% | 1.6–3.6% | 1.4–3.8% | 1.2–4.3% |
@@ -19,6 +20,22 @@ Last result: **2.5%** (General Election of 25 May 2014)
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1.8% | 1.3–2.6% | 1.1–2.9% | 1.0–3.1% | 0.8–3.5% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for DéFI.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 1.0% | 100% |  |
+| 2.5–3.5% | 14% | 99.0% | Last Result |
+| 3.5–4.5% | 24% | 85% |  |
+| 4.5–5.5% | 17% | 61% | Median |
+| 5.5–6.5% | 25% | 44% |  |
+| 6.5–7.5% | 16% | 19% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -39,7 +56,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for DéFI.
+The following table shows the probability mass function per seat for the [poll average](average.html) for DéFI.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -8,8 +8,9 @@ Last result: **5.8%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 20.8% | 16.5–26.5% | 16.0–27.3% | 15.6–27.9% | 14.8–29.2% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17.5% | 16.0–19.2% | 15.6–19.6% | 15.2–20.0% | 14.5–20.9% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 25.0% | 22.8–27.3% | 22.2–27.9% | 21.7–28.5% | 20.7–29.6% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 20.0% | 18.2–22.1% | 17.6–22.7% | 17.2–23.2% | 16.3–24.2% |
@@ -19,6 +20,39 @@ Last result: **5.8%** (General Election of 25 May 2014)
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8.1% | 6.9–9.6% | 6.6–10.1% | 6.3–10.5% | 5.8–11.2% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for PTB.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5.5–6.5% | 0% | 100% | Last Result |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
+| 15.5–16.5% | 8% | 98% |  |
+| 16.5–17.5% | 15% | 90% |  |
+| 17.5–18.5% | 15% | 75% |  |
+| 18.5–19.5% | 8% | 60% |  |
+| 19.5–20.5% | 2% | 53% |  |
+| 20.5–21.5% | 1.2% | 50% | Median |
+| 21.5–22.5% | 3% | 49% |  |
+| 22.5–23.5% | 6% | 46% |  |
+| 23.5–24.5% | 10% | 40% |  |
+| 24.5–25.5% | 11% | 30% |  |
+| 25.5–26.5% | 9% | 19% |  |
+| 26.5–27.5% | 6% | 10% |  |
+| 27.5–28.5% | 3% | 4% |  |
+| 28.5–29.5% | 0.9% | 1.2% |  |
+| 29.5–30.5% | 0.2% | 0.3% |  |
+| 30.5–31.5% | 0% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -39,7 +73,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for PTB.
+The following table shows the probability mass function per seat for the [poll average](average.html) for PTB.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

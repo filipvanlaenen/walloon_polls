@@ -8,8 +8,9 @@ Last result: **4.9%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.3–6.0% | 3.0–6.5% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 4.5% | 3.7–5.5% | 3.5–5.7% | 3.3–6.0% | 3.0–6.5% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.2% | 1.6–3.1% | 1.5–3.4% | 1.3–3.6% | 1.1–4.1% |
@@ -19,6 +20,19 @@ Last result: **4.9%** (General Election of 25 May 2014)
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 5.0% | 4.1–6.3% | 3.8–6.6% | 3.6–7.0% | 3.2–7.6% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Parti Populaire.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 45% | 94% |  |
+| 4.5–5.5% | 41% | 49% | Last Result, Median |
+| 5.5–6.5% | 8% | 8% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -39,7 +53,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for Parti Populaire.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Parti Populaire.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
