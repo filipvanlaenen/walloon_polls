@@ -18,7 +18,7 @@ Last result: **26.7%** (General Election of 25 May 2014)
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 19.4% | 17.8–21.1% | 17.3–21.6% | 17.0–22.0% | 16.2–22.8% |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 22.8% | 20.8–25.0% | 20.2–25.6% | 19.7–26.1% | 18.8–27.2% |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 22.3% | N/A | N/A | N/A | N/A |
-| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 23.5% | N/A | N/A | N/A | N/A |
+| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 22.4% | N/A | N/A | N/A | N/A |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 20.1% | N/A | N/A | N/A | N/A |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 23.1% | N/A | N/A | N/A | N/A |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 26.6% | 24.5–28.9% | 23.9–29.5% | 23.4–30.1% | 22.5–31.2% |
