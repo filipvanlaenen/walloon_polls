@@ -17,6 +17,10 @@ Last result: **4.9%** (General Election of 25 May 2014)
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.4–7.1% |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 4.9% | 3.9–6.1% | 3.7–6.5% | 3.5–6.8% | 3.1–7.4% |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6.0% | N/A | N/A | N/A | N/A |
+| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 5.4% | N/A | N/A | N/A | N/A |
+| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5.5% | N/A | N/A | N/A | N/A |
+| [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5.2% | N/A | N/A | N/A | N/A |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 5.0% | 4.1–6.3% | 3.8–6.6% | 3.6–7.0% | 3.2–7.6% |
 
 ### Probability Mass Function
@@ -49,6 +53,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws |  |  |  |  |  |
+| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique |  |  |  |  |  |
+| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws |  |  |  |  |  |
+| [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws |  |  |  |  |  |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 
 ### Probability Mass Function
