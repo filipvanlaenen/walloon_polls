@@ -17,7 +17,7 @@ Last result: **2.5%** (General Election of 25 May 2014)
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 4.5% | 3.7–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.8% | 2.2–3.6% | 2.1–3.9% | 1.9–4.1% | 1.7–4.5% |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.6% | 1.9–3.6% | 1.8–3.8% | 1.6–4.1% | 1.4–4.6% |
-| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.4% | N/A | N/A | N/A | N/A |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.0% |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.9% | N/A | N/A | N/A | N/A |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.3% | N/A | N/A | N/A | N/A |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.4% | N/A | N/A | N/A | N/A |
@@ -56,7 +56,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 1 | 0–1 | 0–2 | 0–2 | 0–4 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 0 | 0 | 0 | 0 | 0–1 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 0 | 0 | 0 | 0 | 0–1 |
-| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws |  |  |  |  |  |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 0 | 0 | 0 | 0 | 0 |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique |  |  |  |  |  |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws |  |  |  |  |  |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws |  |  |  |  |  |
