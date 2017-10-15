@@ -29,7 +29,7 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| -0.5–0.5% | 0% | 100% |  |
+| 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 43% | 100% | Last Result |
 | 1.5–2.5% | 55% | 57% | Median |
 | 2.5–3.5% | 3% | 3% |  |
