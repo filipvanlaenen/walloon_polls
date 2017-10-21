@@ -1,4 +1,4 @@
-# Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016
+# Opinion Poll by Dedicated for RTBf–La Libre Belgique, 28–24 November 2016
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -474,7 +474,7 @@
 
 + **Pollster:** Dedicated
 + **Media:** RTBf–La Libre Belgique
-+ **Fieldwork period:** 24–28 November 2016
++ **Fieldwork period:** 28–24 November 2016
 
 ### Calculations
 

@@ -17,7 +17,7 @@ Last result: **8.6%** (General Election of 25 May 2014)
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.3% | 9.9–13.0% | 9.5–13.5% | 9.2–14.0% | 8.5–14.8% |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–16.0% | 11.1–16.7% |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11.2% | 10.0–12.7% | 9.7–13.0% | 9.4–13.4% | 8.8–14.1% |
-| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.1% | 9.6–12.8% | 9.2–13.3% | 8.9–13.7% | 8.3–14.6% |
+| [28–24 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.1% | 9.6–12.8% | 9.2–13.3% | 8.9–13.7% | 8.3–14.6% |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7.5% | 6.5–8.7% | 6.3–9.1% | 6.0–9.4% | 5.6–10.0% |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 10.0% | 8.6–11.6% | 8.3–12.1% | 7.9–12.5% | 7.3–13.3% |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
@@ -62,7 +62,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 6–11 | 6–11 | 6–12 | 6–13 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 11 | 11–13 | 10–13 | 9–13 | 8–13 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 7–11 | 6–11 | 6–12 | 6–13 |
-| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 6–11 | 6–11 | 6–11 | 6–13 |
+| [28–24 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 6–11 | 6–11 | 6–11 | 6–13 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6 | 4–6 | 3–6 | 3–6 | 2–7 |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 6 | 6–9 | 6–10 | 6–10 | 6–11 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7 | 6–10 | 6–11 | 6–11 | 6–11 |
