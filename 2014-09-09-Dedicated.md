@@ -52,6 +52,8 @@
 
 *For a full overview of the results for this party, see the [PS](party-ps.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
@@ -72,6 +74,8 @@
 ### MR
 
 *For a full overview of the results for this party, see the [MR](party-mr.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-mr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -94,6 +98,8 @@
 
 *For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-cdh.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
@@ -111,6 +117,8 @@
 ### Ecolo
 
 *For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-ecolo.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -130,6 +138,8 @@
 
 *For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-ptb.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
@@ -146,6 +156,8 @@
 
 *For a full overview of the results for this party, see the [Parti Populaire](party-partipopulaire.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-partipopulaire.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 28% | 100% |  |
@@ -160,6 +172,8 @@
 
 *For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-dfi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -168,6 +182,8 @@
 
 *For a full overview of the results for this party, see the [La Droite](party-ladroite.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-ladroite.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -175,6 +191,8 @@
 ### PIRATE
 
 *For a full overview of the results for this party, see the [PIRATE](party-pirate.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-pirate.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -187,6 +205,8 @@
 
 *For a full overview of the results for this party, see the [Wallonie d’Abord](party-walloniedabord.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-walloniedabord.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 99.7% | 100% | Last Result, Median |
@@ -196,6 +216,8 @@
 ### Debout les Belges
 
 *For a full overview of the results for this party, see the [Debout les Belges](party-deboutlesbelges.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-deboutlesbelges.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -208,6 +230,8 @@
 
 *For a full overview of the results for this party, see the [FW](party-fw.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-fw.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -215,6 +239,8 @@
 ### R.W.F.
 
 *For a full overview of the results for this party, see the [R.W.F.](party-rwf.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-rwf.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
