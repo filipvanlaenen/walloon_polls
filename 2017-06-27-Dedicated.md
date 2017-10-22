@@ -38,8 +38,6 @@
 
 *For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-seats-pmf-ptb.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
@@ -75,8 +73,6 @@
 
 *For a full overview of the results for this party, see the [MR](party-mr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-seats-pmf-mr.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
@@ -97,8 +93,6 @@
 ### PS
 
 *For a full overview of the results for this party, see the [PS](party-ps.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-seats-pmf-ps.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -130,8 +124,6 @@
 
 *For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-seats-pmf-ecolo.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
@@ -150,8 +142,6 @@
 
 *For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-seats-pmf-cdh.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% |  |
@@ -168,8 +158,6 @@
 ### DéFI
 
 *For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
-
-![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-seats-pmf-dfi.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
