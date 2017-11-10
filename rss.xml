@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Thu, 09 Nov 2017 22:08:08 +0100</pubDate>
+    <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 17–21 seats&lt;/li&gt;&lt;li&gt;MR: 17–22 seats&lt;/li&gt;&lt;li&gt;cdH: 5–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 13–18 seats&lt;/li&gt;&lt;li&gt;PTB: 10–14 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–5 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS-seats.png"
+        length="124399"
+        type="image/png"/>
+      <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
+      <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS.html</link>
@@ -16,8 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS.png"
         length="185955"
         type="image/png"/>
-      <pubDate>Thu, 09 Nov 2017 20:46:42 +0100</pubDate>
-      <dc:date>2017-11-09T20:46:42.8889+01:00</dc:date>
+      <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
+      <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2017-09-03-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 16–21 seats&lt;/li&gt;&lt;li&gt;MR: 17–23 seats&lt;/li&gt;&lt;li&gt;cdH: 5–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 8–13 seats&lt;/li&gt;&lt;li&gt;PTB: 13–17 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–5 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-09-03-Ipsos-seats.png"
+        length="141906"
+        type="image/png"/>
+      <pubDate>Thu, 09 Nov 2017 22:23:21 +0100</pubDate>
+      <dc:date>2017-11-09T22:23:21.121632+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-09-03-Ipsos.png"
         length="208685"
         type="image/png"/>
-      <pubDate>Thu, 09 Nov 2017 22:08:08 +0100</pubDate>
-      <dc:date>2017-11-09T22:08:08.31414+01:00</dc:date>
+      <pubDate>Thu, 09 Nov 2017 22:23:21 +0100</pubDate>
+      <dc:date>2017-11-09T22:23:21.121632+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections</title>
@@ -229,6 +249,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2017-11-09T22:08:08.31414+01:00</dc:date>
+    <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
   </channel>
 </rss>
