@@ -182,7 +182,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### DéFI
 
-*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
+*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -367,9 +367,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### DéFI
 
-*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
+*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-dfi.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-défi.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
