@@ -170,9 +170,9 @@
 
 ### DéFI
 
-*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
+*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
 
-![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-dfi.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-défi.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -203,9 +203,9 @@
 
 ### Wallonie d’Abord
 
-*For a full overview of the results for this party, see the [Wallonie d’Abord](party-walloniedabord.html) page.*
+*For a full overview of the results for this party, see the [Wallonie d’Abord](party-wallonied’abord.html) page.*
 
-![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-walloniedabord.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-wallonied’abord.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
