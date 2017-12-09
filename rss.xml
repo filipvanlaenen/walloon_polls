@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
+    <pubDate>Sat, 09 Dec 2017 15:35:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 17.2–22.1%&lt;/li&gt;&lt;li&gt;MR: 19.6–24.8%&lt;/li&gt;&lt;li&gt;cdH: 6.8–10.2%&lt;/li&gt;&lt;li&gt;Ecolo: 9.2–13.1%&lt;/li&gt;&lt;li&gt;PTB: 16.6–21.5%&lt;/li&gt;&lt;li&gt;Parti Populaire: 3.2–5.8%&lt;/li&gt;&lt;li&gt;DéFI: 5.1–8.2%&lt;/li&gt;&lt;li&gt;La Droite: 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.png"
+        length="207689"
+        type="image/png"/>
+      <pubDate>Sat, 09 Dec 2017 15:35:59 +0100</pubDate>
+      <dc:date>2017-12-09T15:35:59.860261+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS.html#seats</link>
@@ -249,6 +259,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
+    <dc:date>2017-12-09T15:35:59.860261+01:00</dc:date>
   </channel>
 </rss>
