@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 09 Dec 2017 15:35:59 +0100</pubDate>
+    <pubDate>Sat, 09 Dec 2017 18:11:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 15–20 seats&lt;/li&gt;&lt;li&gt;MR: 19–23 seats&lt;/li&gt;&lt;li&gt;cdH: 5–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 7–12 seats&lt;/li&gt;&lt;li&gt;PTB: 14–19 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–3 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–5 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos-seats.png"
+        length="137360"
+        type="image/png"/>
+      <pubDate>Sat, 09 Dec 2017 18:11:58 +0100</pubDate>
+      <dc:date>2017-12-09T18:11:58.547293+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.png"
         length="207689"
         type="image/png"/>
-      <pubDate>Sat, 09 Dec 2017 15:35:59 +0100</pubDate>
-      <dc:date>2017-12-09T15:35:59.860261+01:00</dc:date>
+      <pubDate>Sat, 09 Dec 2017 18:11:58 +0100</pubDate>
+      <dc:date>2017-12-09T18:11:58.547293+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
@@ -259,6 +269,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2017-12-09T15:35:59.860261+01:00</dc:date>
+    <dc:date>2017-12-09T18:11:58.547293+01:00</dc:date>
   </channel>
 </rss>
