@@ -22,7 +22,17 @@ Last result: **15.2%** (General Election of 25 May 2014)
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9.8% | 8.6–11.1% | 8.3–11.5% | 8.1–11.8% | 7.5–12.5% |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.7% | 10.3–13.5% | 9.9–13.9% | 9.5–14.4% | 8.9–15.2% |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
+| [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.1% | 10.3–15.8% |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11.1% | 10.0–12.5% | 9.6–12.9% | 9.3–13.2% | 8.8–13.9% |
+| [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 13.5% | 12.1–15.1% | 11.8–15.5% | 11.4–15.9% | 10.8–16.7% |
+| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 13.3% | 12.0–14.7% | 11.6–15.2% | 11.3–15.5% | 10.7–16.2% |
+| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 13.5% | 11.9–15.4% | 11.5–15.9% | 11.1–16.4% | 10.4–17.3% |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 12.8% | 11.3–14.6% | 10.9–15.1% | 10.5–15.5% | 9.8–16.4% |
+| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 13.1% | 11.8–14.6% | 11.4–15.1% | 11.1–15.4% | 10.5–16.2% |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 14.3% | 12.7–16.2% | 12.3–16.7% | 11.9–17.1% | 11.1–18.1% |
+| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 13.9% | 12.6–15.4% | 12.3–15.8% | 11.9–16.2% | 11.3–16.9% |
+| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 12.6% | 11.4–14.0% | 11.1–14.4% | 10.8–14.8% | 10.2–15.5% |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 13.4% | 11.9–15.3% | 11.4–15.8% | 11.0–16.3% | 10.3–17.2% |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12.7% | 11.2–14.5% | 10.8–15.0% | 10.4–15.5% | 9.7–16.3% |
 
 ### Probability Mass Function
@@ -64,7 +74,17 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9 | 6–10 | 5–10 | 5–10 | 5–11 |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 10 | 9–12 | 7–12 | 6–13 | 6–13 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 10–12 | 9–12 | 9–13 | 7–13 |
+| [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 11 | 10–11 | 9–11 | 9–11 | 9–13 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 9–12 | 8–12 | 7–12 | 6–13 |
+| [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 12 | 11–13 | 11–13 | 11–13 | 10–16 |
+| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 12 | 12 | 12 | 11–12 | 9–15 |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 12 | 12 | 12 | 12 | 12 |
+| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 13 | 10–13 | 10–13 | 9–13 | 9–15 |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 15 | 13–15 | 12–15 | 10–15 | 10–15 |
+| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 12 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 12 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11 | 8–12 | 8–12 | 7–12 | 6–13 |
 
 ### Probability Mass Function
