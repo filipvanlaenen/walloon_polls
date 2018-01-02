@@ -78,10 +78,10 @@ Last result: **25** seats (General Election of 25 May 2014)
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 22 | 21–24 | 21–25 | 20–26 | 19–26 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 22 | 21–25 | 20–26 | 20–26 | 19–26 |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 22 | 22–27 | 20–27 | 18–27 | 18–27 |
-| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 21 | 21 | 21 | 21 | 18–22 |
+| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 22 | 20–24 | 20–25 | 19–25 | 18–26 |
 | [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 24 | 22–25 | 22–26 | 22–26 | 22–26 |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 23 | 23–24 | 22–27 | 22–27 | 22–27 |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 24 | 24 | 22–25 | 19–26 | 19–26 |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 23 | 21–26 | 21–27 | 20–27 | 19–28 |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 22 | 22–24 | 22–24 | 22–24 | 22–25 |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 24 | 24 | 23–24 | 23–24 | 20–24 |
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
