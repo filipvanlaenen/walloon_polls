@@ -85,14 +85,14 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 5 | 4–7 | 4–8 | 4–8 | 4–9 |
+| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 7 | 6–8 | 6–8 | 5–8 | 4–9 |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 8 | 6–9 | 6–9 | 6–9 | 4–10 |
-| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 6 | 5–8 | 4–8 | 4–8 | 4–8 |
-| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 5 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 7 | 6–8 | 5–8 | 4–9 | 4–9 |
+| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 7 | 6–8 | 5–8 | 4–8 | 4–9 |
 | [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 7 | 5–8 | 4–8 | 4–8 | 4–9 |
-| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 6 | 6–7 | 6–7 | 6–7 | 4–7 |
-| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 4 | 3–4 | 3–5 | 3–5 | 3–7 |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
+| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 6 | 4–7 | 4–8 | 4–8 | 3–8 |
 
 ### Probability Mass Function

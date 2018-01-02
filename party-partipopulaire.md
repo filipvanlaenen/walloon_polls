@@ -75,14 +75,14 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 1–4 | 0–4 | 0–5 | 0–5 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 2 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
-| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 2 | 2–3 | 2–3 | 2–3 | 0–3 |
-| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 0 | 0 | 0 | 0–1 | 0–1 |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
+| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 2 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0 | 0–1 | 0–1 | 0–2 | 0–3 |
+| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 
 ### Probability Mass Function
