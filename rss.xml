@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Mon, 01 Jan 2018 18:53:22 +0100</pubDate>
+    <pubDate>Tue, 02 Jan 2018 10:18:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html#seats</link>
@@ -290,14 +290,24 @@
       <dc:date>2018-01-01T16:13:24.411752+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 9–14 September 2015 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2015-09-14-Dedicated.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 24–31 seats&lt;/li&gt;&lt;li&gt;MR: 19–25 seats&lt;/li&gt;&lt;li&gt;cdH: 9–14 seats&lt;/li&gt;&lt;li&gt;Ecolo: 5–8 seats&lt;/li&gt;&lt;li&gt;PTB: 6–9 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–3 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2015-09-14-Dedicated-seats.png"
+        length="120417"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jan 2018 09:30:49 +0100</pubDate>
+      <dc:date>2018-01-02T09:30:49.466713+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 9–14 September 2015 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2015-09-14-Dedicated.html</link>
       <description>&lt;ul&gt;&lt;li&gt;PS: 26.3–33.4%&lt;/li&gt;&lt;li&gt;MR: 21.1–27.7%&lt;/li&gt;&lt;li&gt;cdH: 11.1–16.4%&lt;/li&gt;&lt;li&gt;Ecolo: 7.2–11.7%&lt;/li&gt;&lt;li&gt;PTB: 7.6–12.2%&lt;/li&gt;&lt;li&gt;Parti Populaire: 2.8–5.9%&lt;/li&gt;&lt;li&gt;DéFI: 1.7–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2015-09-14-Dedicated.png"
         length="194169"
         type="image/png"/>
-      <pubDate>Mon, 01 Jan 2018 16:25:32 +0100</pubDate>
-      <dc:date>2018-01-01T16:25:32.451532+01:00</dc:date>
+      <pubDate>Tue, 02 Jan 2018 09:30:49 +0100</pubDate>
+      <dc:date>2018-01-02T09:30:49.466713+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 12–18 May 2015 – Voting Intentions</title>
@@ -326,8 +336,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2015-03-09-Dedicated.png"
         length="191158"
         type="image/png"/>
-      <pubDate>Mon, 01 Jan 2018 17:06:32 +0100</pubDate>
-      <dc:date>2018-01-01T17:06:32.090941+01:00</dc:date>
+      <pubDate>Tue, 02 Jan 2018 10:18:23 +0100</pubDate>
+      <dc:date>2018-01-02T10:18:23.102256+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 23–28 January 2015 – Voting Intentions</title>
@@ -379,6 +389,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2018-01-01T18:53:22.799424+01:00</dc:date>
+    <dc:date>2018-01-02T10:18:23.102256+01:00</dc:date>
   </channel>
 </rss>
