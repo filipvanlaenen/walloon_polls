@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Tue, 02 Jan 2018 20:21:35 +0100</pubDate>
+    <pubDate>Wed, 03 Jan 2018 12:49:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html#seats</link>
@@ -230,14 +230,24 @@
       <dc:date>2017-10-02T20:59:30.080271+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 31 March–4 April 2016 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2016-04-04-Dedicated.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 21–27 seats&lt;/li&gt;&lt;li&gt;MR: 19–25 seats&lt;/li&gt;&lt;li&gt;cdH: 9–13 seats&lt;/li&gt;&lt;li&gt;Ecolo: 6–11 seats&lt;/li&gt;&lt;li&gt;PTB: 7–10 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–5 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2016-04-04-Dedicated-seats.png"
+        length="125730"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jan 2018 12:49:55 +0100</pubDate>
+      <dc:date>2018-01-03T12:49:55.471267+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 31 March–4 April 2016 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2016-04-04-Dedicated.html</link>
       <description>&lt;ul&gt;&lt;li&gt;PS: 23.7–29.2%&lt;/li&gt;&lt;li&gt;MR: 21.3–26.7%&lt;/li&gt;&lt;li&gt;cdH: 10.9–15.1%&lt;/li&gt;&lt;li&gt;Ecolo: 9.2–13.2%&lt;/li&gt;&lt;li&gt;PTB: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Parti Populaire: 4.2–7.1%&lt;/li&gt;&lt;li&gt;DéFI: 1.6–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2016-04-04-Dedicated.png"
         length="185823"
         type="image/png"/>
-      <pubDate>Mon, 01 Jan 2018 15:31:18 +0100</pubDate>
-      <dc:date>2018-01-01T15:31:18.530973+01:00</dc:date>
+      <pubDate>Wed, 03 Jan 2018 12:49:55 +0100</pubDate>
+      <dc:date>2018-01-03T12:49:55.471267+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections</title>
@@ -320,14 +330,24 @@
       <dc:date>2018-01-02T09:30:49.466713+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 12–18 May 2015 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2015-05-18-Dedicated.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 23–31 seats&lt;/li&gt;&lt;li&gt;MR: 20–26 seats&lt;/li&gt;&lt;li&gt;cdH: 8–13 seats&lt;/li&gt;&lt;li&gt;Ecolo: 5–8 seats&lt;/li&gt;&lt;li&gt;PTB: 4–9 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–3 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2015-05-18-Dedicated-seats.png"
+        length="129300"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jan 2018 20:47:06 +0100</pubDate>
+      <dc:date>2018-01-02T20:47:06.094224+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 12–18 May 2015 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2015-05-18-Dedicated.html</link>
       <description>&lt;ul&gt;&lt;li&gt;PS: 26.4–33.3%&lt;/li&gt;&lt;li&gt;MR: 22.3–28.9%&lt;/li&gt;&lt;li&gt;cdH: 10.5–15.5%&lt;/li&gt;&lt;li&gt;Ecolo: 7.0–11.4%&lt;/li&gt;&lt;li&gt;PTB: 7.0–11.4%&lt;/li&gt;&lt;li&gt;Parti Populaire: 3.2–6.4%&lt;/li&gt;&lt;li&gt;DéFI: 1.9–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2015-05-18-Dedicated.png"
         length="189631"
         type="image/png"/>
-      <pubDate>Tue, 02 Jan 2018 20:21:35 +0100</pubDate>
-      <dc:date>2018-01-02T20:21:35.503686+01:00</dc:date>
+      <pubDate>Tue, 02 Jan 2018 20:47:06 +0100</pubDate>
+      <dc:date>2018-01-02T20:47:06.094224+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 20–24 April 2015 – Seat Projections</title>
@@ -449,6 +469,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2018-01-02T20:21:35.503686+01:00</dc:date>
+    <dc:date>2018-01-03T12:49:55.471267+01:00</dc:date>
   </channel>
 </rss>
