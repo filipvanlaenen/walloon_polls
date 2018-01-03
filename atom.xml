@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2018-01-02T18:49:02.735243+01:00</updated>
+  <updated>2018-01-03T12:49:55.471267+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 17.2–22.1%, 15–20 seats</li><li>MR: 19.6–24.8%, 19–23 seats</li><li>cdH: 6.8–10.2%, 5–9 seats</li><li>Ecolo: 9.2–13.1%, 7–12 seats</li><li>PTB: 16.6–21.5%, 14–19 seats</li><li>Parti Populaire: 3.2–5.8%, 0–3 seats</li><li>DéFI: 5.1–8.2%, 1–5 seats</li><li>La Droite: 1.5–3.3%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html</id>
@@ -96,6 +96,14 @@
     <dc:date>2017-10-02T20:59:30.080271+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 23.7–29.2%, 21–27 seats</li><li>MR: 21.3–26.7%, 19–25 seats</li><li>cdH: 10.9–15.1%, 9–13 seats</li><li>Ecolo: 9.2–13.2%, 6–11 seats</li><li>PTB: 8.7–12.5%, 7–10 seats</li><li>Parti Populaire: 4.2–7.1%, 0–5 seats</li><li>DéFI: 1.6–3.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2016-04-04-Dedicated.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2016-04-04-Dedicated.html"/>
+    <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 31 March–4 April 2016</title>
+    <updated>2018-01-03T12:49:55.471267+01:00</updated>
+    <dc:date>2018-01-03T12:49:55.471267+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 24.1–29.5%, 23–29 seats</li><li>MR: 20.6–25.8%, 20–26 seats</li><li>cdH: 9.3–13.2%, 7–12 seats</li><li>Ecolo: 7.6–11.1%, 6–10 seats</li><li>PTB: 7.2–10.7%, 6–9 seats</li><li>DéFI: 2.4–4.7%, 0–1 seats</li><li>La Droite: 2.1–4.2%, 0 seats</li><li>Parti Populaire: 4.0–6.8%, 0–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2016-01-20-Ipsos.html</id>
     <link href="https://filipvanlaenen.github.io/walloon_polls/2016-01-20-Ipsos.html"/>
@@ -126,6 +134,14 @@
     <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 9–14 September 2015</title>
     <updated>2018-01-02T09:30:49.466713+01:00</updated>
     <dc:date>2018-01-02T09:30:49.466713+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 26.4–33.3%, 23–31 seats</li><li>MR: 22.3–28.9%, 20–26 seats</li><li>cdH: 10.5–15.5%, 8–13 seats</li><li>Ecolo: 7.0–11.4%, 5–8 seats</li><li>PTB: 7.0–11.4%, 4–9 seats</li><li>Parti Populaire: 3.2–6.4%, 0–3 seats</li><li>DéFI: 1.9–4.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2015-05-18-Dedicated.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2015-05-18-Dedicated.html"/>
+    <title>Opinion Poll by Dedicated for La Libre Belgique–RTBf, 12–18 May 2015</title>
+    <updated>2018-01-02T20:47:06.094224+01:00</updated>
+    <dc:date>2018-01-02T20:47:06.094224+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 23.2–28.7%, 21–27 seats</li><li>MR: 23.4–28.9%, 22–27 seats</li><li>cdH: 11.1–15.4%, 10–13 seats</li><li>Ecolo: 7.5–11.1%, 6–8 seats</li><li>PTB: 6.9–10.5%, 4–8 seats</li><li>Parti Populaire: 3.8–6.6%, 0–4 seats</li><li>DéFI: 1.4–3.4%, 0 seats</li></ul></div></content>
@@ -175,5 +191,5 @@
     <updated>2017-09-02T22:50:19.69154+02:00</updated>
     <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
   </entry>
-  <dc:date>2018-01-02T18:49:02.735243+01:00</dc:date>
+  <dc:date>2018-01-03T12:49:55.471267+01:00</dc:date>
 </feed>
