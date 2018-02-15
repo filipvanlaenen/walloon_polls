@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Wed, 14 Feb 2018 22:52:07 +0100</pubDate>
+    <pubDate>Thu, 15 Feb 2018 18:06:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html#seats</link>
@@ -46,18 +46,18 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS-seats.png"
         length="124382"
         type="image/png"/>
-      <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
-      <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 18:06:20 +0100</pubDate>
+      <dc:date>2018-02-15T18:06:20.135258+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS-coalitions-seats.png"
-        length="285790"
+        length="292183"
         type="image/png"/>
-      <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
-      <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 18:06:20 +0100</pubDate>
+      <dc:date>2018-02-15T18:06:20.135258+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2017-10-05-TNS.png"
         length="185919"
         type="image/png"/>
-      <pubDate>Fri, 10 Nov 2017 06:58:45 +0100</pubDate>
-      <dc:date>2017-11-10T06:58:45.973473+01:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 18:06:20 +0100</pubDate>
+      <dc:date>2018-02-15T18:06:20.135258+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections</title>
@@ -699,6 +699,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2018-02-14T22:52:07.183692+01:00</dc:date>
+    <dc:date>2018-02-15T18:06:20.135258+01:00</dc:date>
   </channel>
 </rss>
