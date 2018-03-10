@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Wed, 07 Mar 2018 19:57:32 +0100</pubDate>
+    <pubDate>Sat, 10 Mar 2018 09:36:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 February–6 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2018-03-06-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 21.3–26.7%&lt;/li&gt;&lt;li&gt;MR: 18.7–23.8%&lt;/li&gt;&lt;li&gt;cdH: 5.8–9.0%&lt;/li&gt;&lt;li&gt;Ecolo: 11.5–15.8%&lt;/li&gt;&lt;li&gt;PTB: 15.1–19.8%&lt;/li&gt;&lt;li&gt;Parti Populaire: 2.8–5.3%&lt;/li&gt;&lt;li&gt;DéFI: 5.0–8.0%&lt;/li&gt;&lt;li&gt;La Droite: 0.6–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-03-06-Ipsos.png"
+        length="206005"
+        type="image/png"/>
+      <pubDate>Sat, 10 Mar 2018 09:36:11 +0100</pubDate>
+      <dc:date>2018-03-10T09:36:11.263824+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2017-12-04-Ipsos.html#seats</link>
@@ -699,6 +709,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2018-03-07T19:57:32.349905+01:00</dc:date>
+    <dc:date>2018-03-10T09:36:11.263824+01:00</dc:date>
   </channel>
 </rss>
