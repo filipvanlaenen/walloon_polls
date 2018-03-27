@@ -10,7 +10,8 @@ Last result: **26.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.6–22.9% | 19.1–23.4% | 18.7–23.8% | 18.0–24.7% |
+| N/A | [Poll Average](average.html) | 22.7% | 20.1–25.3% | 19.6–25.9% | 19.1–26.4% | 18.3–27.4% |
+| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 24.1% | 22.5–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.7% |
 | [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 21.2% | 19.6–22.9% | 19.1–23.4% | 18.7–23.8% | 18.0–24.7% |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.7% |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 21.4% | 19.8–23.0% | 19.4–23.5% | 19.0–23.9% | 18.3–24.8% |
@@ -43,17 +44,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 2% | 99.8% |  |
-| 18.5–19.5% | 8% | 98% |  |
-| 19.5–20.5% | 21% | 90% |  |
-| 20.5–21.5% | 30% | 69% | Median |
-| 21.5–22.5% | 24% | 39% |  |
-| 22.5–23.5% | 11% | 15% |  |
-| 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.6% | 0.6% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% | Last Result |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.8% | 99.9% |  |
+| 18.5–19.5% | 4% | 99.1% |  |
+| 19.5–20.5% | 11% | 95% |  |
+| 20.5–21.5% | 16% | 85% |  |
+| 21.5–22.5% | 16% | 69% |  |
+| 22.5–23.5% | 16% | 52% | Median |
+| 23.5–24.5% | 16% | 36% |  |
+| 24.5–25.5% | 12% | 20% |  |
+| 25.5–26.5% | 6% | 8% |  |
+| 26.5–27.5% | 2% | 2% | Last Result |
+| 27.5–28.5% | 0.3% | 0.4% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,7 +67,8 @@ Last result: **25** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 17–22 | 16–22 |
+| N/A | [Poll Average](average.html) | 21 | 18–21 | 17–21 | 17–22 | 16–23 |
+| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 21 | 20–21 | 20–21 | 20–21 | 20–24 |
 | [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 19 | 17–21 | 17–21 | 17–22 | 16–22 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 20 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 19 | 18–21 | 18–22 | 17–22 | 15–23 |
@@ -98,16 +102,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.4% | 100% |  |
-| 16 | 2% | 99.5% |  |
-| 17 | 9% | 98% |  |
-| 18 | 18% | 89% |  |
-| 19 | 27% | 70% | Median |
-| 20 | 24% | 43% |  |
-| 21 | 15% | 19% |  |
-| 22 | 4% | 5% |  |
-| 23 | 0.2% | 0.3% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% | Last Result |
+| 15 | 0.2% | 100% |  |
+| 16 | 1.0% | 99.8% |  |
+| 17 | 4% | 98.8% |  |
+| 18 | 9% | 94% |  |
+| 19 | 14% | 85% |  |
+| 20 | 18% | 71% |  |
+| 21 | 50% | 53% | Median |
+| 22 | 3% | 3% |  |
+| 23 | 0.3% | 0.6% |  |
+| 24 | 0.1% | 0.3% |  |
+| 25 | 0.1% | 0.2% | Last Result |
+| 26 | 0.2% | 0.2% |  |
+| 27 | 0% | 0% |  |
 
 
