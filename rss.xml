@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 09 Jun 2018 13:26:32 +0200</pubDate>
+    <pubDate>Sat, 09 Jun 2018 20:11:02 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2018-06-06-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 18–24 seats&lt;/li&gt;&lt;li&gt;MR: 15–21 seats&lt;/li&gt;&lt;li&gt;cdH: 5–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 10–13 seats&lt;/li&gt;&lt;li&gt;PTB: 8–12 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 3–6 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–5 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-06-06-Ipsos-seats.png"
+        length="151953"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 20:11:02 +0200</pubDate>
+      <dc:date>2018-06-09T20:11:02.686726+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2018-06-06-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-06-06-Ipsos-coalitions-seats.png"
+        length="307789"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 20:11:02 +0200</pubDate>
+      <dc:date>2018-06-09T20:11:02.686726+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2018-06-06-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-06-06-Ipsos.png"
         length="214656"
         type="image/png"/>
-      <pubDate>Sat, 09 Jun 2018 13:26:32 +0200</pubDate>
-      <dc:date>2018-06-09T13:26:32.025575+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 20:11:02 +0200</pubDate>
+      <dc:date>2018-06-09T20:11:02.686726+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for the Parties</title>
@@ -769,6 +789,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2018-06-09T13:26:32.025575+02:00</dc:date>
+    <dc:date>2018-06-09T20:11:02.686726+02:00</dc:date>
   </channel>
 </rss>
