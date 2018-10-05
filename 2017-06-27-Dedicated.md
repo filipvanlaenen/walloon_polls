@@ -203,6 +203,8 @@
 
 ### PTB – PS – Ecolo
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-ptb–ps–ecolo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0% | 100% | Last Result |
@@ -224,6 +226,8 @@
 | 52 | 0% | 0% |  |
 
 ### MR – PS – Ecolo
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-mr–ps–ecolo.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -252,6 +256,8 @@
 
 ### PTB – PS – cdH
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-ptb–ps–cdh.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.1% | 100% |  |
@@ -273,6 +279,8 @@
 
 ### MR – Ecolo – cdH
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-mr–ecolo–cdh.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.3% | 100% |  |
@@ -291,6 +299,8 @@
 | 45 | 0% | 0% |  |
 
 ### PTB – PS
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-ptb–ps.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -312,6 +322,8 @@
 | 44 | 0% | 0% |  |
 
 ### MR – PS
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-mr–ps.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -346,6 +358,8 @@
 
 ### PS – Ecolo – cdH
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-ps–ecolo–cdh.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0.1% | 100% |  |
@@ -375,6 +389,8 @@
 
 ### MR – Ecolo
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-mr–ecolo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0.1% | 100% |  |
@@ -394,6 +410,8 @@
 | 38 | 0% | 0% | Majority |
 
 ### MR – cdH
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-mr–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -415,6 +433,8 @@
 | 38 | 0% | 0% | Last Result, Majority |
 
 ### PS – cdH
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-ps–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
