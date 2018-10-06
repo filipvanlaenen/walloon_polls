@@ -69,8 +69,8 @@ Last result: **30** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 20–23 | 19–23 | 18–24 | 17–25 |
-| [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 20–23 | 19–23 | 18–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
+| [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
 | [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
 | [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 21 | 18–22 | 18–22 | 18–23 | 17–23 |
 | [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
@@ -106,17 +106,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.6% | 100% |  |
-| 18 | 3% | 99.4% |  |
-| 19 | 5% | 97% |  |
-| 20 | 25% | 92% |  |
-| 21 | 33% | 66% | Median |
-| 22 | 19% | 33% |  |
-| 23 | 11% | 14% |  |
-| 24 | 1.1% | 3% |  |
-| 25 | 1.3% | 2% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0% | 0% |  |
+| 17 | 1.2% | 100% |  |
+| 18 | 4% | 98.8% |  |
+| 19 | 12% | 95% |  |
+| 20 | 17% | 83% |  |
+| 21 | 35% | 66% | Median |
+| 22 | 17% | 31% |  |
+| 23 | 8% | 14% |  |
+| 24 | 3% | 6% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.6% | 0.7% |  |
+| 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% | Last Result |
