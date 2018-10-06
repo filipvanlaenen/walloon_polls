@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 05 Oct 2018 18:48:13 +0200</pubDate>
+    <pubDate>Fri, 05 Oct 2018 20:45:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 18–24 seats&lt;/li&gt;&lt;li&gt;MR: 15–21 seats&lt;/li&gt;&lt;li&gt;cdH: 6–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 6–11 seats&lt;/li&gt;&lt;li&gt;PTB: 8–13 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 2–5 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos-seats.png"
+        length="158145"
+        type="image/png"/>
+      <pubDate>Fri, 05 Oct 2018 20:45:06 +0200</pubDate>
+      <dc:date>2018-10-05T20:45:06.887915+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos-coalitions-seats.png"
+        length="318973"
+        type="image/png"/>
+      <pubDate>Fri, 05 Oct 2018 20:45:06 +0200</pubDate>
+      <dc:date>2018-10-05T20:45:06.887915+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos.png"
         length="201465"
         type="image/png"/>
-      <pubDate>Fri, 05 Oct 2018 18:48:13 +0200</pubDate>
-      <dc:date>2018-10-05T18:48:13.382893+02:00</dc:date>
+      <pubDate>Fri, 05 Oct 2018 20:45:06 +0200</pubDate>
+      <dc:date>2018-10-05T20:45:06.887915+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for the Parties</title>
@@ -799,6 +819,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2018-10-05T18:48:13.382893+02:00</dc:date>
+    <dc:date>2018-10-05T20:45:06.887915+02:00</dc:date>
   </channel>
 </rss>
