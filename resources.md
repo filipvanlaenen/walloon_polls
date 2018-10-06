@@ -36,4 +36,3 @@ The following websites provide similar information to this website:
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
 + [Slovenian Polls](https://filipvanlaenen.github.io/slovenian_polls/) and [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Swedish Polls](https://filipvanlaenen.github.io/swedish_polls/) and [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
-+ [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
