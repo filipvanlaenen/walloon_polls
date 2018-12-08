@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2018-10-06T19:12:37.137092+02:00</updated>
+  <updated>2018-12-08T15:24:14.313281+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 22.3–27.7%, 19–25 seats</li><li>MR: 18.3–23.4%, 15–21 seats</li><li>cdH: 9.4–13.4%, 6–12 seats</li><li>Ecolo: 11.5–15.7%, 9–13 seats</li><li>PTB: 11.1–15.3%, 8–12 seats</li><li>Parti Populaire: 4.8–7.8%, 1–5 seats</li><li>DéFI: 3.1–5.6%, 0–2 seats</li><li>La Droite: 1.5–3.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2018-12-03-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2018-12-03-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018</title>
+    <updated>2018-12-08T15:24:14.313281+01:00</updated>
+    <dc:date>2018-12-08T15:24:14.313281+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>PS: 21.1–26.3%, 18–24 seats</li><li>MR: 18.2–23.2%, 15–21 seats</li><li>cdH: 8.4–12.1%, 6–10 seats</li><li>Ecolo: 9.1–13.0%, 6–11 seats</li><li>PTB: 11.1–15.3%, 8–13 seats</li><li>Parti Populaire: 5.3–8.4%, 2–5 seats</li><li>DéFI: 5.5–8.7%, 2–7 seats</li><li>La Droite: 1.4–3.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2018-09-27-Ipsos.html</id>
@@ -223,5 +231,5 @@
     <updated>2017-09-02T22:50:19.69154+02:00</updated>
     <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
   </entry>
-  <dc:date>2018-10-06T19:12:37.137092+02:00</dc:date>
+  <dc:date>2018-12-08T15:24:14.313281+01:00</dc:date>
 </feed>
