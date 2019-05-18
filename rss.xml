@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 18 May 2019 16:11:52 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 16:42:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 6–14 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2019-05-14-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS: 22–29 seats&lt;/li&gt;&lt;li&gt;MR: 17–22 seats&lt;/li&gt;&lt;li&gt;cdH: 5–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 13–18 seats&lt;/li&gt;&lt;li&gt;PTB: 5–8 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–1 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–1 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2019-05-14-Ipsos-seats.png"
+        length="137269"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 16:42:04 +0200</pubDate>
+      <dc:date>2019-05-18T16:42:04.626875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 6–14 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2019-05-14-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2019-05-14-Ipsos-coalitions-seats.png"
+        length="295572"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 16:42:04 +0200</pubDate>
+      <dc:date>2019-05-18T16:42:04.626875+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 6–14 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2019-05-14-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2019-05-14-Ipsos.png"
         length="211456"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 16:11:52 +0200</pubDate>
-      <dc:date>2019-05-18T16:11:52.319277+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 16:42:04 +0200</pubDate>
+      <dc:date>2019-05-18T16:42:04.626875+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 25 March–14 April 2019 – Seat Projections for the Parties</title>
@@ -949,6 +969,6 @@
       <pubDate>Sat, 02 Sep 2017 22:50:19 +0200</pubDate>
       <dc:date>2017-09-02T22:50:19.69154+02:00</dc:date>
     </item>
-    <dc:date>2019-05-18T16:11:52.319277+02:00</dc:date>
+    <dc:date>2019-05-18T16:42:04.626875+02:00</dc:date>
   </channel>
 </rss>
