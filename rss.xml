@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Walloon Parliament</title>
+    <link>https://filipvanlaenen.github.io/walloon_polls</link>
+    <description>All Registered Polls for the Walloon Parliament</description>
+    <pubDate>Mon, 09 Dec 2019 06:47:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2019-09-10-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 20.4–25.6%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 20.1–25.3%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 6.9–10.4%&lt;/li&gt;&lt;li&gt;Ecolo: 14.1–18.7%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 13.4–17.9%&lt;/li&gt;&lt;li&gt;DéFI: 3.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2019-09-10-Ipsos.png"
+        length="183605"
+        type="image/png"/>
+      <pubDate>Mon, 09 Dec 2019 06:47:50 +0100</pubDate>
+      <dc:date>2019-12-09T06:47:50.263685+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-09T06:47:50.263685+01:00</dc:date>
+  </channel>
+</rss>
