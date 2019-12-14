@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 14 Dec 2019 10:29:38 +0100</pubDate>
+    <pubDate>Sat, 14 Dec 2019 10:38:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2019-12-06-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2019-12-06-Ipsos.png"
         length="184782"
         type="image/png"/>
-      <pubDate>Sat, 14 Dec 2019 10:29:38 +0100</pubDate>
-      <dc:date>2019-12-14T10:29:38.402153+01:00</dc:date>
+      <pubDate>Sat, 14 Dec 2019 10:38:11 +0100</pubDate>
+      <dc:date>2019-12-14T10:38:11.862685+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Voting Intentions</title>
@@ -29,6 +29,6 @@
       <pubDate>Mon, 09 Dec 2019 06:47:50 +0100</pubDate>
       <dc:date>2019-12-09T06:47:50.263685+01:00</dc:date>
     </item>
-    <dc:date>2019-12-14T10:29:38.402153+01:00</dc:date>
+    <dc:date>2019-12-14T10:38:11.862685+01:00</dc:date>
   </channel>
 </rss>
