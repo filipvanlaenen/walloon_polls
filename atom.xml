@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2019-12-14T17:54:05.888933+01:00</updated>
+  <updated>2019-12-18T21:14:26.651953+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti Socialiste: 21.2–26.6%, 18–23 seats</li><li>Mouvement Réformateur: 18.1–23.2%, 15–21 seats</li><li>Centre démocrate humaniste: 7.2–10.8%, 4–9 seats</li><li>Ecolo: 15.0–19.7%, 13–18 seats</li><li>Parti du Travail de Belgique: 14.3–18.9%, 10–17 seats</li><li>DéFI: 3.5–6.2%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2019-12-06-Ipsos.html</id>
@@ -15,5 +15,13 @@
     <updated>2019-12-14T17:54:05.888933+01:00</updated>
     <dc:date>2019-12-14T17:54:05.888933+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-14T17:54:05.888933+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti Socialiste: 20.4–25.6%, 17–23 seats</li><li>Mouvement Réformateur: 20.1–25.3%, 18–23 seats</li><li>Centre démocrate humaniste: 6.9–10.4%, 4–8 seats</li><li>Ecolo: 14.1–18.7%, 12–16 seats</li><li>Parti du Travail de Belgique: 13.4–17.9%, 10–16 seats</li><li>DéFI: 3.8–6.6%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2019-09-10-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2019-09-10-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019</title>
+    <updated>2019-12-18T21:14:26.651953+01:00</updated>
+    <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
+  </entry>
+  <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
 </feed>
