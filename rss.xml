@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 14 Mar 2020 12:17:05 +0100</pubDate>
+    <pubDate>Sun, 21 Jun 2020 00:07:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 10–15 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2020-06-15-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 19–23 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 16–21 seats&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 4–7 seats&lt;/li&gt;&lt;li&gt;Ecolo: 12–15 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 15–19 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2020-06-15-Ipsos-seats.png"
+        length="183095"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jun 2020 00:07:06 +0200</pubDate>
+      <dc:date>2020-06-21T00:07:06.843894+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 10–15 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2020-06-15-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2020-06-15-Ipsos-coalitions-seats.png"
+        length="351754"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jun 2020 00:07:06 +0200</pubDate>
+      <dc:date>2020-06-21T00:07:06.843894+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 10–15 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2020-06-15-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 21.2–26.5%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 18.1–23.1%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Ecolo: 13.0–17.5%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 16.4–21.2%&lt;/li&gt;&lt;li&gt;DéFI: 3.5–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2020-06-15-Ipsos.png"
+        length="239152"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jun 2020 00:07:06 +0200</pubDate>
+      <dc:date>2020-06-21T00:07:06.843894+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2020-03-09-Ipsos.html#seats</link>
@@ -99,6 +129,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
     </item>
-    <dc:date>2020-03-14T12:17:05.275619+01:00</dc:date>
+    <dc:date>2020-06-21T00:07:06.843894+02:00</dc:date>
   </channel>
 </rss>
