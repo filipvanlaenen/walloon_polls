@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 11 Sep 2020 08:47:03 +0200</pubDate>
+    <pubDate>Sun, 11 Oct 2020 21:52:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2020-10-08-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 18.7–23.7%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 16.9–21.7%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Ecolo: 15.5–20.3%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 16.6–21.4%&lt;/li&gt;&lt;li&gt;DéFI: 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2020-10-08-Ipsos.png"
+        length="240149"
+        type="image/png"/>
+      <pubDate>Sun, 11 Oct 2020 21:52:26 +0200</pubDate>
+      <dc:date>2020-10-11T21:52:26.486553+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Dedicated for Soirmag, 28 August–1 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2020-09-01-Dedicated.html#seats</link>
@@ -159,6 +169,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
     </item>
-    <dc:date>2020-09-11T08:47:03.152471+02:00</dc:date>
+    <dc:date>2020-10-11T21:52:26.486553+02:00</dc:date>
   </channel>
 </rss>
