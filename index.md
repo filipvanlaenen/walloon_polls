@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | CDH | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–31% <br> 17–29 | 17–28% <br> 14–26 | 12–20% <br> 9–18 | 12–21% <br> 8–19 | 4–11% <br> 0–10 | 3–7% <br> 0–5 | 2–6% <br> 0–4 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 19–31% <br> 17–29 | 17–28% <br> 14–26 | 12–20% <br> 9–18 | 12–21% <br> 8–19 | 4–11% <br> 0–9 | 3–7% <br> 0–5 | 2–6% <br> 0–4 | N/A <br> N/A |
 | [2–8 October 2020](2020-10-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 17–21 | 17–22% <br> 14–20 | 16–20% <br> 13–18 | 17–21% <br> 15–19 | 8–12% <br> 5–10 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [28 August–1 September 2020](2020-09-01-Dedicated.html) | Dedicated <br> Soirmag | 22–32% <br> 18–29 | 19–29% <br> 17–26 | 12–20% <br> 9–18 | 12–20% <br> 8–17 | 4–10% <br> 0–6 | 2–7% <br> 0–5 | 2–6% <br> 0–4 | N/A <br> N/A |
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
