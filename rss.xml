@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 11 Dec 2020 23:24:24 +0100</pubDate>
+    <pubDate>Fri, 11 Dec 2020 23:28:19 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2020-12-08-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2020-12-08-Ipsos.png"
         length="240212"
         type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 23:24:24 +0100</pubDate>
-      <dc:date>2020-12-11T23:24:24.250673+01:00</dc:date>
+      <pubDate>Fri, 11 Dec 2020 23:28:19 +0100</pubDate>
+      <dc:date>2020-12-11T23:28:19.225403+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Seat Projections for the Parties</title>
@@ -199,6 +199,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
     </item>
-    <dc:date>2020-12-11T23:24:24.250673+01:00</dc:date>
+    <dc:date>2020-12-11T23:28:19.225403+01:00</dc:date>
   </channel>
 </rss>
