@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2020-12-12T11:53:35.964542+01:00</updated>
+  <updated>2021-03-13T10:43:29.825949+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti Socialiste: 20.2–25.5%, 17–22 seats</li><li>Mouvement Réformateur: 17.7–22.8%, 15–21 seats</li><li>Centre démocrate humaniste: 7.0–10.6%, 4–8 seats</li><li>Ecolo: 14.2–18.9%, 12–17 seats</li><li>Parti du Travail de Belgique: 16.6–21.6%, 15–19 seats</li><li>DéFI: 2.8–5.3%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2021-03-09-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2021-03-09-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2021</title>
+    <updated>2021-03-13T10:43:29.825949+01:00</updated>
+    <dc:date>2021-03-13T10:43:29.825949+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti Socialiste: 20.6–25.8%, 18–23 seats</li><li>Mouvement Réformateur: 18.1–23.1%, 15–21 seats</li><li>Centre démocrate humaniste: 8.5–12.3%, 6–11 seats</li><li>Ecolo: 13.5–18.0%, 12–15 seats</li><li>Parti du Travail de Belgique: 15.0–19.7%, 12–17 seats</li><li>DéFI: 2.7–5.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2020-12-08-Ipsos.html</id>
@@ -63,5 +71,5 @@
     <updated>2019-12-18T21:14:26.651953+01:00</updated>
     <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
   </entry>
-  <dc:date>2020-12-12T11:53:35.964542+01:00</dc:date>
+  <dc:date>2021-03-13T10:43:29.825949+01:00</dc:date>
 </feed>
