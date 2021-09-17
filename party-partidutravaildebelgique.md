@@ -49,8 +49,8 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
-| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–18 | 14–19 | 13–20 |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–18 | 15–18 | 14–19 | 13–20 |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–17 | 15–18 | 14–18 | 14–20 |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15 | 14–17 | 13–17 | 12–17 | 10–18 |
@@ -69,17 +69,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0% | 100% | Last Result |
-| 11 | 0.1% | 100% |  |
+| 10 | 0.1% | 100% | Last Result |
+| 11 | 0.1% | 99.9% |  |
 | 12 | 0.1% | 99.9% |  |
-| 13 | 0.3% | 99.8% |  |
-| 14 | 3% | 99.5% |  |
-| 15 | 19% | 96% |  |
-| 16 | 28% | 77% | Median |
-| 17 | 39% | 50% |  |
-| 18 | 8% | 11% |  |
+| 13 | 0.3% | 99.7% |  |
+| 14 | 4% | 99.5% |  |
+| 15 | 18% | 95% |  |
+| 16 | 24% | 77% |  |
+| 17 | 42% | 54% | Median |
+| 18 | 9% | 12% |  |
 | 19 | 2% | 3% |  |
-| 20 | 0.7% | 0.8% |  |
+| 20 | 0.5% | 0.6% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
