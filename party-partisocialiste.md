@@ -10,7 +10,8 @@ Last result: **26.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
+| N/A | [Poll Average](average.html) | 21.4% | 19.7–23.2% | 19.3–23.7% | 18.9–24.2% | 18.1–25.0% |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21.4% | 19.7–23.2% | 19.3–23.7% | 18.9–24.2% | 18.1–25.0% |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.8% | 21.1–24.6% | 20.6–25.1% | 20.2–25.5% | 19.4–26.4% |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23.1% | 21.5–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
@@ -27,18 +28,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 3% | 99.6% |  |
-| 21.5–22.5% | 11% | 97% |  |
-| 22.5–23.5% | 23% | 86% |  |
-| 23.5–24.5% | 29% | 64% | Median |
-| 24.5–25.5% | 21% | 35% |  |
-| 25.5–26.5% | 10% | 13% | Last Result |
-| 26.5–27.5% | 3% | 3% |  |
-| 27.5–28.5% | 0.5% | 0.6% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 1.2% | 99.9% |  |
+| 18.5–19.5% | 6% | 98.7% |  |
+| 19.5–20.5% | 18% | 92% |  |
+| 20.5–21.5% | 28% | 75% | Median |
+| 21.5–22.5% | 26% | 47% |  |
+| 22.5–23.5% | 14% | 21% |  |
+| 23.5–24.5% | 5% | 6% |  |
+| 24.5–25.5% | 1.1% | 1.2% |  |
+| 25.5–26.5% | 0.2% | 0.2% | Last Result |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,7 +50,8 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 17–21 | 15–22 |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 17–20 | 17–21 | 17–21 | 15–22 |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20 | 18–21 | 17–22 | 17–22 | 17–23 |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
@@ -68,15 +70,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 2% | 100% |  |
-| 18 | 3% | 98% |  |
-| 19 | 13% | 95% |  |
-| 20 | 23% | 82% |  |
-| 21 | 32% | 59% | Median |
-| 22 | 20% | 27% |  |
-| 23 | 6% | 7% | Last Result |
-| 24 | 0.6% | 0.7% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 15 | 0.5% | 100% |  |
+| 16 | 0.8% | 99.5% |  |
+| 17 | 31% | 98.6% |  |
+| 18 | 18% | 68% |  |
+| 19 | 24% | 50% | Median |
+| 20 | 18% | 26% |  |
+| 21 | 6% | 8% |  |
+| 22 | 2% | 2% |  |
+| 23 | 0% | 0% | Last Result |
 
 
