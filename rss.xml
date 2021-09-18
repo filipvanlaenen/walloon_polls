@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 17 Sep 2021 21:32:51 +0200</pubDate>
+    <pubDate>Sat, 18 Sep 2021 15:50:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2021-09-14-Ipsos.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2021-09-14-Ipsos-seats.png"
         length="187940"
         type="image/png"/>
-      <pubDate>Fri, 17 Sep 2021 21:32:51 +0200</pubDate>
-      <dc:date>2021-09-17T21:32:51.804273+02:00</dc:date>
+      <pubDate>Sat, 18 Sep 2021 15:50:10 +0200</pubDate>
+      <dc:date>2021-09-18T15:50:10.562442+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2021-09-14-Ipsos-coalitions-seats.png"
         length="368085"
         type="image/png"/>
-      <pubDate>Fri, 17 Sep 2021 21:32:51 +0200</pubDate>
-      <dc:date>2021-09-17T21:32:51.804273+02:00</dc:date>
+      <pubDate>Sat, 18 Sep 2021 15:50:10 +0200</pubDate>
+      <dc:date>2021-09-18T15:50:10.562442+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2021-09-14-Ipsos.png"
         length="242343"
         type="image/png"/>
-      <pubDate>Fri, 17 Sep 2021 21:32:51 +0200</pubDate>
-      <dc:date>2021-09-17T21:32:51.804273+02:00</dc:date>
+      <pubDate>Sat, 18 Sep 2021 15:50:10 +0200</pubDate>
+      <dc:date>2021-09-18T15:50:10.562442+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 May–1 June 2021 – Seat Projections for the Parties</title>
@@ -309,6 +309,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26.651953+01:00</dc:date>
     </item>
-    <dc:date>2021-09-17T21:32:51.804273+02:00</dc:date>
+    <dc:date>2021-09-18T15:50:10.562442+02:00</dc:date>
   </channel>
 </rss>
