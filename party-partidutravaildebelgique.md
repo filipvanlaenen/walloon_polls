@@ -10,8 +10,9 @@ Last result: **13.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.3% | 16.7–19.9% | 16.3–20.4% | 15.9–20.8% | 15.2–21.6% |
-| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18.2% | 16.7–19.9% | 16.3–20.4% | 15.9–20.8% | 15.2–21.6% |
+| N/A | [Poll Average](average.html) | 19.8% | 18.2–21.5% | 17.7–22.0% | 17.4–22.5% | 16.6–23.3% |
+| [25 March 2022](2022-03-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19.8% | 18.2–21.6% | 17.7–22.0% | 17.3–22.5% | 16.6–23.3% |
+| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18.2% | N/A | N/A | N/A | N/A |
 | [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18.7% | 17.1–20.4% | 16.7–20.9% | 16.3–21.4% | 15.6–22.2% |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19.1% | 17.5–20.7% | 17.1–21.2% | 16.7–21.6% | 16.0–22.5% |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19.0% | 17.5–20.7% | 17.0–21.2% | 16.6–21.6% | 15.9–22.5% |
@@ -29,18 +30,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.1% | 100% | Last Result |
-| 14.5–15.5% | 1.1% | 99.9% |  |
-| 15.5–16.5% | 7% | 98.8% |  |
-| 16.5–17.5% | 20% | 92% |  |
-| 17.5–18.5% | 31% | 72% | Median |
-| 18.5–19.5% | 25% | 41% |  |
-| 19.5–20.5% | 12% | 15% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.5% | 0.6% |  |
-| 22.5–23.5% | 0% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 100% | Last Result |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 3% | 99.6% |  |
+| 17.5–18.5% | 12% | 96% |  |
+| 18.5–19.5% | 26% | 84% |  |
+| 19.5–20.5% | 29% | 58% | Median |
+| 20.5–21.5% | 19% | 29% |  |
+| 21.5–22.5% | 8% | 10% |  |
+| 22.5–23.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.3% | 0.3% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -51,8 +52,9 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 15–17 | 15–17 | 13–18 |
-| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16 | 15–17 | 15–17 | 15–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–19 | 15–20 | 15–21 |
+| [25 March 2022](2022-03-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 16–18 | 15–19 | 15–20 | 15–21 |
+| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM |  |  |  |  |  |
 | [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–18 | 15–18 | 14–19 | 13–20 |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–17 | 15–18 | 14–18 | 14–20 |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
@@ -73,16 +75,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% | Last Result |
-| 11 | 0.1% | 100% |  |
-| 12 | 0.3% | 99.9% |  |
-| 13 | 0.7% | 99.5% |  |
-| 14 | 1.3% | 98.8% |  |
-| 15 | 45% | 98% |  |
-| 16 | 18% | 52% | Median |
-| 17 | 32% | 34% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0.3% | 0.4% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 6% | 99.5% |  |
+| 16 | 8% | 94% |  |
+| 17 | 43% | 86% | Median |
+| 18 | 34% | 43% |  |
+| 19 | 6% | 9% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.8% | 0.8% |  |
+| 22 | 0% | 0% |  |
 
 
