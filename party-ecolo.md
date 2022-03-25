@@ -10,8 +10,8 @@ Last result: **14.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.1% | 13.6–16.7% | 13.2–17.1% | 12.9–17.5% | 12.2–18.3% |
-| [25 March 2022](2022-03-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.1% | 13.6–16.7% | 13.2–17.1% | 12.9–17.5% | 12.2–18.3% |
+| N/A | [Poll Average](average.html) | 15.1% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.4–18.2% |
+| [15–22 March 2022](2022-03-22-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.1% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.4–18.2% |
 | [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.5% | N/A | N/A | N/A | N/A |
 | [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16.7% | 15.2–18.3% | 14.8–18.8% | 14.4–19.2% | 13.7–20.0% |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.0% | 13.6–16.6% | 13.3–17.0% | 12.9–17.4% | 12.3–18.2% |
@@ -30,15 +30,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.0% | 99.9% |  |
-| 12.5–13.5% | 8% | 98.9% |  |
-| 13.5–14.5% | 23% | 91% | Last Result |
-| 14.5–15.5% | 33% | 68% | Median |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.8% | 100% |  |
+| 12.5–13.5% | 7% | 99.2% |  |
+| 13.5–14.5% | 23% | 92% | Last Result |
+| 14.5–15.5% | 34% | 69% | Median |
 | 15.5–16.5% | 24% | 35% |  |
 | 16.5–17.5% | 9% | 11% |  |
 | 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.3% | 0.3% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -50,8 +50,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–14 | 12–15 | 11–15 | 10–15 |
-| [25 March 2022](2022-03-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13 | 12–14 | 12–15 | 11–15 | 10–15 |
+| N/A | [Poll Average](average.html) | 13 | 12–14 | 12–14 | 11–15 | 10–15 |
+| [15–22 March 2022](2022-03-22-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13 | 12–14 | 12–14 | 11–15 | 10–15 |
 | [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM |  |  |  |  |  |
 | [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14 | 13–15 | 12–16 | 12–17 | 12–18 |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13 | 12–14 | 11–14 | 11–14 | 9–15 |
@@ -72,15 +72,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 1.0% | 99.9% |  |
-| 11 | 3% | 98.9% |  |
-| 12 | 39% | 96% | Last Result |
-| 13 | 39% | 57% | Median |
-| 14 | 10% | 18% |  |
-| 15 | 7% | 8% |  |
-| 16 | 0.3% | 0.5% |  |
-| 17 | 0.1% | 0.2% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0.9% | 99.9% |  |
+| 11 | 2% | 99.0% |  |
+| 12 | 34% | 97% | Last Result |
+| 13 | 45% | 63% | Median |
+| 14 | 13% | 17% |  |
+| 15 | 4% | 4% |  |
+| 16 | 0.3% | 0.4% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 
