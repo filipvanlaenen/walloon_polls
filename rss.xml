@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 25 Mar 2022 19:47:27 +0100</pubDate>
+    <pubDate>Fri, 25 Mar 2022 20:37:21 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2022-03-22-Ipsos.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Fri, 25 Mar 2022 19:47:27 +0100</pubDate>
       <dc:date>2022-03-25T19:47:27.060918+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–8 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2021-12-08-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 19–23 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 18–21 seats&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 3–7 seats&lt;/li&gt;&lt;li&gt;Ecolo: 12–14 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 15–17 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2021-12-08-Ipsos-seats.png"
+        length="175221"
+        type="image/png"/>
+      <pubDate>Fri, 25 Mar 2022 20:37:21 +0100</pubDate>
+      <dc:date>2022-03-25T20:37:21.953792+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–8 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2021-12-08-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2021-12-08-Ipsos-coalitions-seats.png"
+        length="321251"
+        type="image/png"/>
+      <pubDate>Fri, 25 Mar 2022 20:37:21 +0100</pubDate>
+      <dc:date>2022-03-25T20:37:21.953792+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–8 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2021-12-08-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 22.2–27.7%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 19.8–25.0%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 6.4–9.9%&lt;/li&gt;&lt;li&gt;Ecolo: 13.4–17.9%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 15.9–20.8%&lt;/li&gt;&lt;li&gt;DéFI: 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2021-12-08-Ipsos.png"
+        length="238960"
+        type="image/png"/>
+      <pubDate>Fri, 25 Mar 2022 20:37:21 +0100</pubDate>
+      <dc:date>2022-03-25T20:37:21.953792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Seat Projections for the Parties</title>
@@ -339,6 +369,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26+01:00</dc:date>
     </item>
-    <dc:date>2022-03-25T19:47:27.060918+01:00</dc:date>
+    <dc:date>2022-03-25T20:37:21.953792+01:00</dc:date>
   </channel>
 </rss>
