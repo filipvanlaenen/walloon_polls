@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
 | [15–22 March 2022](2022-03-22-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 17–22 | 18–23% <br> 15–21 | 13–17% <br> 11–15 | 17–22% <br> 15–20 | 8–11% <br> 5–10 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22–28% <br> 19–23 | 20–25% <br> 18–21 | 13–18% <br> 12–14 | 16–21% <br> 15–17 | 6–10% <br> 3–7 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 17–21 | 18–23% <br> 14–21 | 14–19% <br> 12–17 | 16–21% <br> 14–19 | 8–12% <br> 5–10 | 4–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21–27% <br> 18–23 | 16–21% <br> 14–19 | 13–17% <br> 11–14 | 17–22% <br> 14–18 | 9–13% <br> 6–11 | 4–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–26% <br> 17–22 | 18–23% <br> 15–21 | 14–19% <br> 12–17 | 17–22% <br> 15–19 | 7–11% <br> 4–8 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
