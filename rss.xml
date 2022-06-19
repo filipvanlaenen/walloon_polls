@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 25 Mar 2022 20:37:21 +0100</pubDate>
+    <pubDate>Sun, 19 Jun 2022 21:50:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 6–14 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2022-06-14-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 22.7–28.1%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 16.9–21.8%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Ecolo: 12.3–16.7%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 16.8–21.7%&lt;/li&gt;&lt;li&gt;DéFI: 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2022-06-14-Ipsos.png"
+        length="233827"
+        type="image/png"/>
+      <pubDate>Sun, 19 Jun 2022 21:50:17 +0200</pubDate>
+      <dc:date>2022-06-19T21:50:17.068494+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2022-03-22-Ipsos.html#seats</link>
@@ -369,6 +379,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26+01:00</dc:date>
     </item>
-    <dc:date>2022-03-25T20:37:21.953792+01:00</dc:date>
+    <dc:date>2022-06-19T21:50:17.068494+02:00</dc:date>
   </channel>
 </rss>
