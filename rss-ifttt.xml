@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Walloon Parliament</description>
     <pubDate>Sat, 7 Dec 2019 19:37:03 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique, 16–29 January 2023 – Voting Intentions</title>
+      <link>null/2023-01-29-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the Walloon Parliament<br/>Opinion poll by Kantar for La Libre Belgique, 16–29 January 2023<br/>Details on null/2023-01-29-Kantar.html<br/><img src="null/2023-01-29-Kantar.png"/>]]></description>
+      <enclosure url="null/2023-01-29-Kantar.png" length="249467" type="image/png"/>
+      <pubDate>Thu, 16 Feb 2023 20:26:39 +0100</pubDate>
+      <dc:date>2023-02-16T20:26:39.356798+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 21–29 November 2022 – Seating Plan Projection</title>
       <link>null/2022-11-29-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Walloon Parliament<br/>38 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 21–29 November 2022<br/>Details on null/2022-11-29-Ipsos.html<br/><img src="null/2022-11-29-Ipsos-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="null/2020-12-08-Ipsos.png" length="240212" type="image/png"/>
       <pubDate>Sat, 12 Dec 2020 11:53:35 +0100</pubDate>
       <dc:date>2020-12-12T11:53:35+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Seating Plan Projection</title>
-      <link>null/2020-10-08-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Walloon Parliament<br/>38 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020<br/>Details on null/2020-10-08-Ipsos.html<br/><img src="null/2020-10-08-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="null/2020-10-08-Ipsos-seating-plan.png" length="451354" type="image/png"/>
-      <pubDate>Mon, 12 Oct 2020 07:28:13 +0200</pubDate>
-      <dc:date>2020-10-12T07:28:13+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Seat Projections</title>
-      <link>null/2020-10-08-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the Walloon Parliament<br/>38 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020<br/>Details on null/2020-10-08-Ipsos.html<br/><img src="null/2020-10-08-Ipsos-seats.png"/>]]></description>
-      <enclosure url="null/2020-10-08-Ipsos-seats.png" length="184491" type="image/png"/>
-      <pubDate>Mon, 12 Oct 2020 07:28:13 +0200</pubDate>
-      <dc:date>2020-10-12T07:28:13+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Voting Intentions</title>
-      <link>null/2020-10-08-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the Walloon Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020<br/>Details on null/2020-10-08-Ipsos.html<br/><img src="null/2020-10-08-Ipsos.png"/>]]></description>
-      <enclosure url="null/2020-10-08-Ipsos.png" length="240149" type="image/png"/>
-      <pubDate>Mon, 12 Oct 2020 07:28:13 +0200</pubDate>
-      <dc:date>2020-10-12T07:28:13+02:00</dc:date>
     </item>
   </channel>
 </rss>
