@@ -58,8 +58,8 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 14–20 | 14–21 | 14–21 | 12–21 |
-| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique | 18 | 14–20 | 14–20 | 14–21 | 13–21 |
+| N/A | [Poll Average](average.html) | 18 | 15–20 | 14–21 | 14–21 | 14–21 |
+| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique | 18 | 15–20 | 14–20 | 14–21 | 13–22 |
 | [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 17–20 | 16–21 | 15–21 | 15–21 |
 | [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 18–21 | 18–21 | 17–21 | 16–22 |
 | [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 15–19 | 15–19 | 14–20 | 14–21 |
@@ -84,21 +84,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.9% | 99.8% |  |
-| 13 | 0.1% | 98.9% |  |
-| 14 | 13% | 98.8% |  |
-| 15 | 15% | 86% |  |
-| 16 | 3% | 71% |  |
-| 17 | 6% | 68% |  |
-| 18 | 19% | 62% | Median |
-| 19 | 26% | 43% |  |
-| 20 | 11% | 17% | Last Result |
-| 21 | 6% | 6% |  |
-| 22 | 0.1% | 0.2% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0.1% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.3% | 99.9% |  |
+| 14 | 5% | 99.5% |  |
+| 15 | 7% | 95% |  |
+| 16 | 7% | 88% |  |
+| 17 | 12% | 81% |  |
+| 18 | 22% | 69% | Median |
+| 19 | 28% | 47% |  |
+| 20 | 12% | 19% | Last Result |
+| 21 | 7% | 7% |  |
+| 22 | 0.3% | 0.5% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

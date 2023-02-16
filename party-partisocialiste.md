@@ -59,8 +59,8 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–23 | 19–25 | 19–28 | 17–28 |
-| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique | 22 | 20–26 | 19–27 | 18–27 | 17–29 |
+| N/A | [Poll Average](average.html) | 21 | 20–24 | 19–25 | 19–26 | 17–28 |
+| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique | 22 | 20–25 | 20–26 | 19–27 | 17–28 |
 | [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–22 | 19–23 | 19–23 | 17–24 |
 | [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20 | 18–21 | 17–22 | 17–22 | 17–23 |
 | [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22 | 20–24 | 20–24 | 20–25 | 19–27 |
@@ -85,18 +85,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.7% | 100% |  |
-| 18 | 0.8% | 99.3% |  |
-| 19 | 18% | 98% |  |
-| 20 | 34% | 80% | Median |
-| 21 | 17% | 46% |  |
-| 22 | 12% | 29% |  |
-| 23 | 9% | 17% | Last Result |
-| 24 | 1.5% | 8% |  |
-| 25 | 3% | 7% |  |
-| 26 | 0% | 4% |  |
-| 27 | 0.4% | 4% |  |
-| 28 | 3% | 3% |  |
-| 29 | 0% | 0% |  |
+| 17 | 0.8% | 100% |  |
+| 18 | 1.3% | 99.2% |  |
+| 19 | 7% | 98% |  |
+| 20 | 18% | 91% |  |
+| 21 | 26% | 73% | Median |
+| 22 | 23% | 47% |  |
+| 23 | 13% | 24% | Last Result |
+| 24 | 4% | 11% |  |
+| 25 | 2% | 6% |  |
+| 26 | 2% | 4% |  |
+| 27 | 1.3% | 2% |  |
+| 28 | 1.0% | 1.1% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
