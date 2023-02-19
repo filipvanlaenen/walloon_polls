@@ -8,36 +8,36 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Thu, 16 Feb 2023 20:35:29 +0100</pubDate>
+    <pubDate>Sun, 19 Feb 2023 15:25:34 +0100</pubDate>
     <item>
-      <title>Opinion Poll by Kantar for La Libre Belgique, 16–29 January 2023 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2023-01-29-Kantar.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 19–27 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 14–21 seats&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 4–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 6–12 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 15–21 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2023-01-29-Kantar-seats.png"
-        length="192792"
+        length="194843"
         type="image/png"/>
-      <pubDate>Thu, 16 Feb 2023 20:35:29 +0100</pubDate>
-      <dc:date>2023-02-16T20:35:29.480648+01:00</dc:date>
+      <pubDate>Sun, 19 Feb 2023 15:25:34 +0100</pubDate>
+      <dc:date>2023-02-19T15:25:34.057623+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Kantar for La Libre Belgique, 16–29 January 2023 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2023-01-29-Kantar.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2023-01-29-Kantar-coalitions-seats.png"
-        length="425791"
+        length="427439"
         type="image/png"/>
-      <pubDate>Thu, 16 Feb 2023 20:35:29 +0100</pubDate>
-      <dc:date>2023-02-16T20:35:29.480648+01:00</dc:date>
+      <pubDate>Sun, 19 Feb 2023 15:25:34 +0100</pubDate>
+      <dc:date>2023-02-19T15:25:34.057623+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Kantar for La Libre Belgique, 16–29 January 2023 – Voting Intentions</title>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2023-01-29-Kantar.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 22.1–29.7%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 16.5–23.4%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 7.1–12.2%&lt;/li&gt;&lt;li&gt;Ecolo: 8.9–14.4%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 16.8–23.9%&lt;/li&gt;&lt;li&gt;DéFI: 3.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2023-01-29-Kantar.png"
-        length="249467"
+        length="251326"
         type="image/png"/>
-      <pubDate>Thu, 16 Feb 2023 20:35:29 +0100</pubDate>
-      <dc:date>2023-02-16T20:35:29.480648+01:00</dc:date>
+      <pubDate>Sun, 19 Feb 2023 15:25:34 +0100</pubDate>
+      <dc:date>2023-02-19T15:25:34.057623+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 21–29 November 2022 – Seat Projections for the Parties</title>
@@ -489,6 +489,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26+01:00</dc:date>
     </item>
-    <dc:date>2023-02-16T20:35:29.480648+01:00</dc:date>
+    <dc:date>2023-02-19T15:25:34.057623+01:00</dc:date>
   </channel>
 </rss>
