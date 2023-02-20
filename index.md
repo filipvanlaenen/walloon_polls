@@ -2,7 +2,7 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | CDH | DÉFI | PP | DROITE |
+| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
 | N/A | [Poll Average](average.html) | 21–29% <br> 19–26 | 17–23% <br> 14–21 | 9–15% <br> 6–13 | 16–23% <br> 15–20 | 7–12% <br> 4–10 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A |
@@ -19,7 +19,7 @@ Only polls for which at least the sample size has been published are included in
 + **MR:** Mouvement Réformateur
 + **ECOLO:** Ecolo
 + **PTB:** Parti du Travail de Belgique
-+ **CDH:** Centre démocrate humaniste
++ **LE:** Les Engagés
 + **DÉFI:** DéFI
 + **PP:** Parti Populaire
 + **DROITE:** La Droite
