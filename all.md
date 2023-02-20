@@ -2,7 +2,7 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | CDH | DÉFI | PP | DROITE |
+| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 22–30% <br> 19–27 | 16–23% <br> 14–21 | 9–14% <br> 6–12 | 17–24% <br> 15–21 | 7–12% <br> 4–10 | 4–8% <br> 0–6 | N/A <br> N/A | N/A <br> N/A |
@@ -32,7 +32,7 @@ Only polls for which at least the sample size has been published are included in
 + **MR:** Mouvement Réformateur
 + **ECOLO:** Ecolo
 + **PTB:** Parti du Travail de Belgique
-+ **CDH:** Centre démocrate humaniste
++ **LE:** Les Engagés
 + **DÉFI:** DéFI
 + **PP:** Parti Populaire
 + **DROITE:** La Droite
