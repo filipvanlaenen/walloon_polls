@@ -6,7 +6,7 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | CDH | DÉFI | PP | DROITE |
+| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
 | N/A | Poll Average | 21–29% <br> 19–26 | 17–23% <br> 14–21 | 9–15% <br> 6–13 | 16–23% <br> 15–20 | 7–12% <br> 4–10 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A |
@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **MR:** Mouvement Réformateur
 + **ECOLO:** Ecolo
 + **PTB:** Parti du Travail de Belgique
-+ **CDH:** Centre démocrate humaniste
++ **LE:** Les Engagés
 + **DÉFI:** DéFI
 + **PP:** Parti Populaire
 + **DROITE:** La Droite
@@ -42,7 +42,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 21.4% | 20.2% | 18.1–22.1% |17.5–22.7% | 17.0–23.2% | 15.9–24.3% |
 | <a href="#ecolo">Ecolo</a> | 14.5% | 12.4% | 10.3–14.2% |9.7–14.7% | 9.3–15.1% | 8.4–15.9% |
 | <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 13.7% | 18.8% | 16.8–21.7% |16.3–22.5% | 15.9–23.3% | 15.2–24.6% |
-| <a href="#centre-démocrate-humaniste">Centre démocrate humaniste</a> | 11.0% | 9.3% | 8.0–10.8% |7.6–11.3% | 7.3–11.8% | 6.7–12.8% |
+| <a href="#les-engagés">Les Engagés</a> | 11.0% | 9.3% | 8.0–10.8% |7.6–11.3% | 7.3–11.8% | 6.7–12.8% |
 | <a href="#défi">DéFI</a> | 4.1% | 5.4% | 4.4–6.6% |4.1–7.0% | 3.9–7.4% | 3.4–8.2% |
 | <a href="#parti-populaire">Parti Populaire</a> | 3.7% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#la-droite">La Droite</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
@@ -131,9 +131,9 @@ Only polls for which at least the sample size has been published are included in
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
-### Centre démocrate humaniste
+### Les Engagés
 
-*For a full overview of the results for this party, see the [Centre démocrate humaniste](party-centredémocratehumaniste.html) page.*
+*For a full overview of the results for this party, see the [Les Engagés](party-lesengagés.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -180,7 +180,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 20 | 18 | 15–20 |14–21 | 14–21 | 14–21 |
 | <a href="#ecolo">Ecolo</a> | 12 | 10 | 7–12 |7–13 | 6–13 | 6–14 |
 | <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 10 | 17 | 15–19 |15–20 | 15–20 | 13–21 |
-| <a href="#centre-démocrate-humaniste">Centre démocrate humaniste</a> | 10 | 6 | 5–9 |4–9 | 4–10 | 4–11 |
+| <a href="#les-engagés">Les Engagés</a> | 10 | 6 | 5–9 |4–9 | 4–10 | 4–11 |
 | <a href="#défi">DéFI</a> | 0 | 1 | 0–4 |0–5 | 0–5 | 0–6 |
 | <a href="#parti-populaire">Parti Populaire</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#la-droite">La Droite</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -274,11 +274,11 @@ Only polls for which at least the sample size has been published are included in
 | 23 | 0% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
-### Centre démocrate humaniste
+### Les Engagés
 
-*For a full overview of the results for this party, see the [Centre démocrate humaniste](party-centredémocratehumaniste.html) page.*
+*For a full overview of the results for this party, see the [Les Engagés](party-lesengagés.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-centredémocratehumaniste.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lesengagés.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -334,16 +334,16 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parti Socialiste – Mouvement Réformateur – Ecolo | 55 | 50 | 100% | 47–53 | 45–54 | 44–54 | 43–55 |
 | Parti Socialiste – Ecolo – Parti du Travail de Belgique | 45 | 48 | 100% | 46–51 | 45–52 | 44–53 | 43–55 |
-| Parti Socialiste – Parti du Travail de Belgique – Centre démocrate humaniste | 43 | 44 | 100% | 42–49 | 41–50 | 41–51 | 40–53 |
+| Parti Socialiste – Parti du Travail de Belgique – Les Engagés | 43 | 44 | 100% | 42–49 | 41–50 | 41–51 | 40–53 |
 | Parti Socialiste – Mouvement Réformateur | 43 | 40 | 83% | 37–42 | 36–43 | 35–44 | 34–46 |
 | Parti Socialiste – Parti du Travail de Belgique | 33 | 38 | 62% | 36–41 | 35–43 | 34–44 | 33–45 |
-| Parti Socialiste – Ecolo – Centre démocrate humaniste | 45 | 39 | 68% | 35–41 | 35–42 | 34–43 | 33–44 |
-| Mouvement Réformateur – Ecolo – Centre démocrate humaniste | 42 | 35 | 13% | 31–38 | 30–39 | 29–39 | 27–40 |
+| Parti Socialiste – Ecolo – Les Engagés | 45 | 39 | 68% | 35–41 | 35–42 | 34–43 | 33–44 |
+| Mouvement Réformateur – Ecolo – Les Engagés | 42 | 35 | 13% | 31–38 | 30–39 | 29–39 | 27–40 |
 | Parti Socialiste – Ecolo | 35 | 32 | 0.4% | 29–34 | 28–35 | 27–35 | 26–37 |
-| Parti Socialiste – Centre démocrate humaniste | 33 | 28 | 0% | 26–31 | 25–32 | 25–33 | 23–35 |
+| Parti Socialiste – Les Engagés | 33 | 28 | 0% | 26–31 | 25–32 | 25–33 | 23–35 |
 | Mouvement Réformateur – Ecolo | 32 | 28 | 0% | 24–31 | 23–32 | 22–33 | 21–33 |
 | Ecolo – Parti du Travail de Belgique | 22 | 27 | 0% | 24–29 | 23–30 | 23–30 | 22–32 |
-| Mouvement Réformateur – Centre démocrate humaniste | 30 | 25 | 0% | 22–27 | 21–28 | 21–29 | 19–30 |
+| Mouvement Réformateur – Les Engagés | 30 | 25 | 0% | 22–27 | 21–28 | 21–29 | 19–30 |
 
 ### Parti Socialiste – Mouvement Réformateur – Ecolo
 
@@ -394,9 +394,9 @@ Only polls for which at least the sample size has been published are included in
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
-### Parti Socialiste – Parti du Travail de Belgique – Centre démocrate humaniste
+### Parti Socialiste – Parti du Travail de Belgique – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–ptb–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–ptb–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -469,9 +469,9 @@ Only polls for which at least the sample size has been published are included in
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 
-### Parti Socialiste – Ecolo – Centre démocrate humaniste
+### Parti Socialiste – Ecolo – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–ecolo–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–ecolo–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -493,9 +493,9 @@ Only polls for which at least the sample size has been published are included in
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
-### Mouvement Réformateur – Ecolo – Centre démocrate humaniste
+### Mouvement Réformateur – Ecolo – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr–ecolo–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr–ecolo–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -543,9 +543,9 @@ Only polls for which at least the sample size has been published are included in
 | 40 | 0% | 0.1% |  |
 | 41 | 0% | 0% |  |
 
-### Parti Socialiste – Centre démocrate humaniste
+### Parti Socialiste – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -612,9 +612,9 @@ Only polls for which at least the sample size has been published are included in
 | 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 
-### Mouvement Réformateur – Centre démocrate humaniste
+### Mouvement Réformateur – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
