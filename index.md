@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–28% <br> 20–25 | 17–22% <br> 14–20 | 11–15% <br> 7–13 | 17–22% <br> 14–19 | 9–12% <br> 6–11 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23–29% <br> 20–25 | 17–22% <br> 14–20 | 11–15% <br> 7–13 | 17–21% <br> 14–19 | 9–12% <br> 6–11 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 19–24% <br> 17–21 | 17–22% <br> 14–19 | 13–17% <br> 10–14 | 17–22% <br> 14–19 | 12–16% <br> 9–13 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 17–21 | 17–22% <br> 14–19 | 13–17% <br> 10–14 | 17–22% <br> 14–19 | 12–16% <br> 9–13 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
