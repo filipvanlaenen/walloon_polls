@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
-| N/A | Poll Average | 23–28% <br> 20–25 | 17–22% <br> 14–20 | 11–15% <br> 7–13 | 17–22% <br> 14–19 | 9–12% <br> 6–11 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23–29% <br> 20–25 | 17–22% <br> 14–20 | 11–15% <br> 7–13 | 17–21% <br> 14–19 | 9–12% <br> 6–11 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 19–24% <br> 17–21 | 17–22% <br> 14–19 | 13–17% <br> 10–14 | 17–22% <br> 14–19 | 12–16% <br> 9–13 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 17–21 | 17–22% <br> 14–19 | 13–17% <br> 10–14 | 17–22% <br> 14–19 | 12–16% <br> 9–13 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -37,12 +37,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#parti-socialiste">Parti Socialiste</a> | 26.2% | 25.7% | 24.0–27.5% |23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
-| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 21.4% | 19.8% | 18.3–21.5% |17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
-| <a href="#ecolo">Ecolo</a> | 14.5% | 12.7% | 11.4–14.1% |11.1–14.5% | 10.8–14.9% | 10.2–15.6% |
-| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 13.7% | 18.9% | 17.4–20.6% |17.0–21.0% | 16.6–21.5% | 15.9–22.3% |
-| <a href="#les-engagés">Les Engagés</a> | 11.0% | 10.4% | 9.2–11.6% |8.8–12.0% | 8.6–12.3% | 8.1–13.0% |
-| <a href="#défi">DéFI</a> | 4.1% | 3.9% | 3.1–4.7% |2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
+| <a href="#parti-socialiste">Parti Socialiste</a> | 26.2% | 21.8% | 20.2–23.5% |19.7–24.0% | 19.3–24.5% | 18.6–25.3% |
+| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 21.4% | 19.7% | 18.2–21.4% |17.7–21.9% | 17.4–22.3% | 16.6–23.1% |
+| <a href="#ecolo">Ecolo</a> | 14.5% | 14.9% | 13.5–16.4% |13.2–16.9% | 12.8–17.2% | 12.2–18.0% |
+| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 13.7% | 19.8% | 18.3–21.5% |17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
+| <a href="#les-engagés">Les Engagés</a> | 11.0% | 13.8% | 12.5–15.3% |12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
+| <a href="#défi">DéFI</a> | 4.1% | 2.8% | 2.2–3.5% |2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | <a href="#parti-populaire">Parti Populaire</a> | 3.7% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#la-droite">La Droite</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
 
@@ -52,18 +52,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.8% | 99.9% |  |
-| 22.5–23.5% | 4% | 99.1% |  |
-| 23.5–24.5% | 14% | 95% |  |
-| 24.5–25.5% | 25% | 81% |  |
-| 25.5–26.5% | 28% | 55% | Last Result, Median |
-| 26.5–27.5% | 18% | 28% |  |
-| 27.5–28.5% | 7% | 10% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.4% | 100% |  |
+| 18.5–19.5% | 3% | 99.6% |  |
+| 19.5–20.5% | 12% | 96% |  |
+| 20.5–21.5% | 26% | 84% |  |
+| 21.5–22.5% | 29% | 59% | Median |
+| 22.5–23.5% | 19% | 29% |  |
+| 23.5–24.5% | 8% | 10% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.3% | Last Result |
+| 26.5–27.5% | 0% | 0% |  |
 
 ### Mouvement Réformateur
 
@@ -72,14 +71,14 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 3% | 99.7% |  |
-| 17.5–18.5% | 12% | 97% |  |
-| 18.5–19.5% | 26% | 85% |  |
-| 19.5–20.5% | 30% | 59% | Median |
-| 20.5–21.5% | 20% | 29% | Last Result |
-| 21.5–22.5% | 7% | 9% |  |
-| 22.5–23.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 3% | 99.6% |  |
+| 17.5–18.5% | 13% | 96% |  |
+| 18.5–19.5% | 27% | 83% |  |
+| 19.5–20.5% | 30% | 56% | Median |
+| 20.5–21.5% | 18% | 26% | Last Result |
+| 21.5–22.5% | 6% | 8% |  |
+| 22.5–23.5% | 1.3% | 2% |  |
 | 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -89,15 +88,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 1.3% | 99.9% |  |
-| 10.5–11.5% | 11% | 98.6% |  |
-| 11.5–12.5% | 30% | 88% |  |
-| 12.5–13.5% | 35% | 58% | Median |
-| 13.5–14.5% | 18% | 23% | Last Result |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.6% | 0.6% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 1.2% | 99.9% |  |
+| 12.5–13.5% | 9% | 98.7% |  |
+| 13.5–14.5% | 26% | 90% | Last Result |
+| 14.5–15.5% | 34% | 64% | Median |
+| 15.5–16.5% | 22% | 30% |  |
+| 16.5–17.5% | 7% | 8% |  |
+| 17.5–18.5% | 1.2% | 1.4% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 ### Parti du Travail de Belgique
 
@@ -106,16 +106,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% | Last Result |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 2% | 99.8% |  |
-| 16.5–17.5% | 10% | 98% |  |
-| 17.5–18.5% | 25% | 88% |  |
-| 18.5–19.5% | 31% | 63% | Median |
-| 19.5–20.5% | 21% | 31% |  |
-| 20.5–21.5% | 8% | 10% |  |
-| 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0.2% | 0.3% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 3% | 99.7% |  |
+| 17.5–18.5% | 12% | 97% |  |
+| 18.5–19.5% | 26% | 85% |  |
+| 19.5–20.5% | 30% | 59% | Median |
+| 20.5–21.5% | 20% | 29% |  |
+| 21.5–22.5% | 7% | 9% |  |
+| 22.5–23.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 ### Les Engagés
 
@@ -123,15 +124,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 17% | 98% |  |
-| 9.5–10.5% | 38% | 80% | Median |
-| 10.5–11.5% | 31% | 42% | Last Result |
-| 11.5–12.5% | 10% | 11% |  |
-| 12.5–13.5% | 1.5% | 2% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 1.3% | 99.9% | Last Result |
+| 11.5–12.5% | 10% | 98.7% |  |
+| 12.5–13.5% | 28% | 89% |  |
+| 13.5–14.5% | 35% | 61% | Median |
+| 14.5–15.5% | 20% | 26% |  |
+| 15.5–16.5% | 6% | 7% |  |
+| 16.5–17.5% | 0.8% | 0.9% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 ### DéFI
 
@@ -139,13 +141,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.7% | 100% |  |
-| 2.5–3.5% | 29% | 99.3% |  |
-| 3.5–4.5% | 56% | 70% | Last Result, Median |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 33% | 99.7% |  |
+| 2.5–3.5% | 59% | 67% | Median |
+| 3.5–4.5% | 8% | 8% | Last Result |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -158,12 +160,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#parti-socialiste">Parti Socialiste</a> | 23 | 22 | 21–24 |20–24 | 20–25 | 19–27 |
-| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 20 | 18 | 15–19 |14–20 | 14–20 | 14–21 |
-| <a href="#ecolo">Ecolo</a> | 12 | 11 | 9–12 |8–12 | 7–13 | 7–13 |
-| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 10 | 17 | 15–17 |15–18 | 14–19 | 14–20 |
-| <a href="#les-engagés">Les Engagés</a> | 10 | 8 | 6–10 |6–10 | 6–11 | 5–11 |
-| <a href="#défi">DéFI</a> | 0 | 0 | 0 |0 | 0 | 0–3 |
+| <a href="#parti-socialiste">Parti Socialiste</a> | 23 | 18 | 17–20 |17–21 | 17–21 | 16–21 |
+| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 20 | 16 | 14–18 |14–18 | 14–19 | 14–20 |
+| <a href="#ecolo">Ecolo</a> | 12 | 12 | 12–13 |11–14 | 10–14 | 9–14 |
+| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 10 | 17 | 15–18 |15–19 | 14–19 | 14–20 |
+| <a href="#les-engagés">Les Engagés</a> | 10 | 11 | 10–13 |10–13 | 9–13 | 8–14 |
+| <a href="#défi">DéFI</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#parti-populaire">Parti Populaire</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#la-droite">La Droite</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
@@ -175,18 +177,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0% | 100% |  |
-| 19 | 1.1% | 99.9% |  |
-| 20 | 5% | 98.9% |  |
-| 21 | 17% | 94% |  |
-| 22 | 40% | 76% | Median |
-| 23 | 23% | 36% | Last Result |
-| 24 | 9% | 13% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.0% | 2% |  |
-| 27 | 0.6% | 0.9% |  |
-| 28 | 0.3% | 0.3% |  |
-| 29 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 1.1% | 99.8% |  |
+| 17 | 35% | 98.7% |  |
+| 18 | 18% | 64% | Median |
+| 19 | 23% | 45% |  |
+| 20 | 17% | 22% |  |
+| 21 | 5% | 5% |  |
+| 22 | 0.4% | 0.4% |  |
+| 23 | 0% | 0% | Last Result |
 
 ### Mouvement Réformateur
 
@@ -196,14 +195,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 5% | 100% |  |
-| 15 | 8% | 95% |  |
-| 16 | 10% | 86% |  |
-| 17 | 15% | 77% |  |
-| 18 | 20% | 62% | Median |
-| 19 | 34% | 42% |  |
-| 20 | 7% | 8% | Last Result |
-| 21 | 2% | 2% |  |
+| 14 | 18% | 100% |  |
+| 15 | 14% | 82% |  |
+| 16 | 20% | 69% | Median |
+| 17 | 36% | 49% |  |
+| 18 | 9% | 13% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.9% | 1.2% | Last Result |
+| 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |
 
 ### Ecolo
@@ -214,16 +213,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 3% | 99.9% |  |
-| 8 | 4% | 97% |  |
-| 9 | 6% | 93% |  |
-| 10 | 31% | 86% |  |
-| 11 | 21% | 56% | Median |
-| 12 | 32% | 35% | Last Result |
-| 13 | 3% | 3% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 0.3% | 99.6% |  |
+| 10 | 3% | 99.4% |  |
+| 11 | 5% | 96% |  |
+| 12 | 48% | 92% | Last Result, Median |
+| 13 | 37% | 44% |  |
+| 14 | 7% | 7% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 ### Parti du Travail de Belgique
 
@@ -236,15 +234,16 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 100% | Last Result |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 99.9% |  |
-| 14 | 5% | 99.8% |  |
-| 15 | 16% | 95% |  |
-| 16 | 15% | 79% |  |
-| 17 | 56% | 64% | Median |
-| 18 | 5% | 8% |  |
-| 19 | 2% | 3% |  |
-| 20 | 0.8% | 0.9% |  |
-| 21 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 5% | 99.9% |  |
+| 15 | 8% | 95% |  |
+| 16 | 14% | 87% |  |
+| 17 | 51% | 73% | Median |
+| 18 | 17% | 22% |  |
+| 19 | 3% | 5% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.2% | 0.2% |  |
+| 22 | 0% | 0% |  |
 
 ### Les Engagés
 
@@ -254,15 +253,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 0.7% | 99.9% |  |
-| 6 | 15% | 99.2% |  |
-| 7 | 32% | 84% |  |
-| 8 | 26% | 52% | Median |
-| 9 | 12% | 26% |  |
-| 10 | 10% | 14% | Last Result |
-| 11 | 5% | 5% |  |
-| 12 | 0% | 0% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 0.7% | 99.8% |  |
+| 9 | 2% | 99.1% |  |
+| 10 | 8% | 97% | Last Result |
+| 11 | 60% | 88% | Median |
+| 12 | 18% | 29% |  |
+| 13 | 10% | 11% |  |
+| 14 | 0.9% | 1.0% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 ### DéFI
 
@@ -272,12 +272,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 1.2% | 2% |  |
-| 2 | 0.3% | 0.8% |  |
-| 3 | 0.3% | 0.5% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Parti Populaire
 
@@ -300,37 +295,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parti Socialiste – Mouvement Réformateur – Ecolo | 55 | 51 | 100% | 48–53 | 48–53 | 47–54 | 46–54 |
-| Parti Socialiste – Ecolo – Parti du Travail de Belgique | 45 | 49 | 100% | 48–51 | 47–52 | 46–53 | 45–54 |
-| Parti Socialiste – Parti du Travail de Belgique – Les Engagés | 43 | 46 | 100% | 44–49 | 44–49 | 44–50 | 43–51 |
-| Parti Socialiste – Ecolo – Les Engagés | 45 | 40 | 98% | 39–43 | 38–44 | 38–44 | 37–45 |
-| Parti Socialiste – Mouvement Réformateur | 43 | 40 | 89% | 37–42 | 37–43 | 36–43 | 36–44 |
-| Parti Socialiste – Parti du Travail de Belgique | 33 | 39 | 88% | 37–40 | 37–41 | 36–42 | 35–43 |
-| Mouvement Réformateur – Ecolo – Les Engagés | 42 | 36 | 12% | 34–38 | 34–38 | 33–39 | 32–40 |
-| Parti Socialiste – Ecolo | 35 | 33 | 0.5% | 31–35 | 30–36 | 30–36 | 28–38 |
-| Parti Socialiste – Les Engagés | 33 | 30 | 0% | 28–32 | 27–33 | 27–33 | 26–35 |
-| Mouvement Réformateur – Ecolo | 32 | 29 | 0% | 26–31 | 26–31 | 25–31 | 24–32 |
-| Ecolo – Parti du Travail de Belgique | 22 | 27 | 0% | 25–29 | 24–29 | 24–30 | 22–30 |
-| Mouvement Réformateur – Les Engagés | 30 | 26 | 0% | 23–27 | 23–28 | 22–29 | 21–30 |
-
-### Parti Socialiste – Mouvement Réformateur – Ecolo
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–mr–ecolo.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0.1% | 100% |  |
-| 46 | 0.6% | 99.9% |  |
-| 47 | 2% | 99.3% |  |
-| 48 | 8% | 97% |  |
-| 49 | 12% | 89% |  |
-| 50 | 22% | 77% |  |
-| 51 | 25% | 56% | Median |
-| 52 | 17% | 31% |  |
-| 53 | 10% | 13% |  |
-| 54 | 3% | 4% |  |
-| 55 | 0.1% | 0.2% | Last Result |
-| 56 | 0% | 0% |  |
+| Parti Socialiste – Ecolo – Parti du Travail de Belgique | 45 | 47 | 100% | 46–50 | 46–50 | 45–50 | 44–51 |
+| Parti Socialiste – Mouvement Réformateur – Ecolo | 55 | 47 | 100% | 45–49 | 45–49 | 44–50 | 43–51 |
+| Parti Socialiste – Parti du Travail de Belgique – Les Engagés | 43 | 46 | 100% | 45–48 | 44–49 | 43–49 | 43–50 |
+| Parti Socialiste – Ecolo – Les Engagés | 45 | 42 | 99.7% | 40–44 | 40–44 | 39–44 | 38–45 |
+| Mouvement Réformateur – Ecolo – Les Engagés | 42 | 40 | 93% | 38–41 | 37–42 | 37–43 | 36–44 |
+| Parti Socialiste – Parti du Travail de Belgique | 33 | 35 | 7% | 34–37 | 33–38 | 32–38 | 31–39 |
+| Parti Socialiste – Mouvement Réformateur | 43 | 34 | 2% | 33–37 | 32–37 | 32–37 | 31–39 |
+| Parti Socialiste – Ecolo | 35 | 31 | 0% | 29–33 | 29–33 | 29–33 | 27–34 |
+| Parti Socialiste – Les Engagés | 33 | 30 | 0% | 28–31 | 28–32 | 27–32 | 26–33 |
+| Mouvement Réformateur – Ecolo | 32 | 29 | 0% | 27–30 | 26–31 | 26–32 | 25–32 |
+| Ecolo – Parti du Travail de Belgique | 22 | 29 | 0% | 27–31 | 27–31 | 26–32 | 25–33 |
+| Mouvement Réformateur – Les Engagés | 30 | 28 | 0% | 25–29 | 25–29 | 25–30 | 24–31 |
 
 ### Parti Socialiste – Ecolo – Parti du Travail de Belgique
 
@@ -338,19 +314,38 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.2% | 100% |  |
-| 45 | 1.4% | 99.8% | Last Result |
-| 46 | 3% | 98% |  |
-| 47 | 5% | 96% |  |
-| 48 | 11% | 90% |  |
-| 49 | 31% | 79% |  |
-| 50 | 29% | 48% | Median |
-| 51 | 10% | 20% |  |
-| 52 | 7% | 10% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.7% | 0.8% |  |
-| 55 | 0.1% | 0.1% |  |
-| 56 | 0% | 0% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.3% | 99.9% |  |
+| 44 | 1.2% | 99.5% |  |
+| 45 | 3% | 98% | Last Result |
+| 46 | 12% | 96% |  |
+| 47 | 42% | 84% | Median |
+| 48 | 18% | 42% |  |
+| 49 | 11% | 24% |  |
+| 50 | 12% | 13% |  |
+| 51 | 0.6% | 0.7% |  |
+| 52 | 0.1% | 0.1% |  |
+| 53 | 0% | 0% |  |
+
+### Parti Socialiste – Mouvement Réformateur – Ecolo
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–mr–ecolo.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 43 | 0.5% | 100% |  |
+| 44 | 3% | 99.4% |  |
+| 45 | 13% | 97% |  |
+| 46 | 21% | 84% | Median |
+| 47 | 32% | 63% |  |
+| 48 | 18% | 31% |  |
+| 49 | 8% | 13% |  |
+| 50 | 4% | 5% |  |
+| 51 | 0.5% | 0.6% |  |
+| 52 | 0.1% | 0.1% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% | Last Result |
 
 ### Parti Socialiste – Parti du Travail de Belgique – Les Engagés
 
@@ -358,19 +353,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.5% | 100% |  |
-| 43 | 1.3% | 99.5% | Last Result |
-| 44 | 10% | 98% |  |
-| 45 | 16% | 88% |  |
-| 46 | 24% | 72% |  |
-| 47 | 18% | 48% | Median |
-| 48 | 15% | 30% |  |
-| 49 | 11% | 15% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.7% | 1.2% |  |
-| 52 | 0.3% | 0.4% |  |
-| 53 | 0.1% | 0.2% |  |
-| 54 | 0% | 0% |  |
+| 42 | 0.3% | 100% |  |
+| 43 | 2% | 99.6% | Last Result |
+| 44 | 6% | 97% |  |
+| 45 | 17% | 91% |  |
+| 46 | 26% | 74% | Median |
+| 47 | 23% | 48% |  |
+| 48 | 15% | 25% |  |
+| 49 | 9% | 9% |  |
+| 50 | 0.5% | 0.7% |  |
+| 51 | 0.1% | 0.1% |  |
+| 52 | 0% | 0% |  |
 
 ### Parti Socialiste – Ecolo – Les Engagés
 
@@ -378,60 +371,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.2% | 100% |  |
-| 37 | 1.4% | 99.7% |  |
-| 38 | 4% | 98% | Majority |
-| 39 | 25% | 94% |  |
-| 40 | 19% | 69% |  |
-| 41 | 17% | 50% | Median |
-| 42 | 12% | 32% |  |
-| 43 | 11% | 20% |  |
-| 44 | 8% | 10% |  |
+| 37 | 0.2% | 100% |  |
+| 38 | 0.8% | 99.7% | Majority |
+| 39 | 2% | 98.9% |  |
+| 40 | 9% | 97% |  |
+| 41 | 30% | 88% | Median |
+| 42 | 21% | 57% |  |
+| 43 | 18% | 37% |  |
+| 44 | 17% | 19% |  |
 | 45 | 1.4% | 2% | Last Result |
-| 46 | 0.4% | 0.5% |  |
+| 46 | 0.4% | 0.4% |  |
 | 47 | 0% | 0% |  |
-
-### Parti Socialiste – Mouvement Réformateur
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–mr.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0.4% | 99.9% |  |
-| 36 | 4% | 99.5% |  |
-| 37 | 7% | 96% |  |
-| 38 | 10% | 89% | Majority |
-| 39 | 13% | 79% |  |
-| 40 | 22% | 66% | Median |
-| 41 | 26% | 43% |  |
-| 42 | 11% | 17% |  |
-| 43 | 5% | 6% | Last Result |
-| 44 | 0.7% | 1.0% |  |
-| 45 | 0.2% | 0.3% |  |
-| 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
-
-### Parti Socialiste – Parti du Travail de Belgique
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–ptb.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% | Last Result |
-| 34 | 0.2% | 99.9% |  |
-| 35 | 0.8% | 99.7% |  |
-| 36 | 4% | 99.0% |  |
-| 37 | 7% | 95% |  |
-| 38 | 33% | 88% | Majority |
-| 39 | 32% | 55% | Median |
-| 40 | 14% | 23% |  |
-| 41 | 7% | 10% |  |
-| 42 | 2% | 3% |  |
-| 43 | 0.6% | 1.0% |  |
-| 44 | 0.3% | 0.4% |  |
-| 45 | 0.1% | 0.1% |  |
-| 46 | 0% | 0% |  |
 
 ### Mouvement Réformateur – Ecolo – Les Engagés
 
@@ -439,20 +389,55 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 0.3% | 99.9% |  |
-| 32 | 0.7% | 99.6% |  |
-| 33 | 2% | 98.9% |  |
-| 34 | 7% | 97% |  |
-| 35 | 14% | 90% |  |
-| 36 | 32% | 76% |  |
-| 37 | 32% | 44% | Median |
-| 38 | 7% | 12% | Majority |
-| 39 | 4% | 5% |  |
-| 40 | 0.7% | 1.0% |  |
-| 41 | 0.2% | 0.3% |  |
-| 42 | 0.1% | 0.1% | Last Result |
-| 43 | 0% | 0% |  |
+| 35 | 0.1% | 100% |  |
+| 36 | 0.5% | 99.9% |  |
+| 37 | 6% | 99.4% |  |
+| 38 | 13% | 93% | Majority |
+| 39 | 17% | 80% | Median |
+| 40 | 30% | 63% |  |
+| 41 | 24% | 33% |  |
+| 42 | 7% | 9% | Last Result |
+| 43 | 2% | 3% |  |
+| 44 | 0.5% | 0.5% |  |
+| 45 | 0% | 0% |  |
+
+### Parti Socialiste – Parti du Travail de Belgique
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–ptb.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 31 | 0.5% | 100% |  |
+| 32 | 2% | 99.5% |  |
+| 33 | 7% | 97% | Last Result |
+| 34 | 24% | 91% |  |
+| 35 | 30% | 67% | Median |
+| 36 | 17% | 37% |  |
+| 37 | 13% | 20% |  |
+| 38 | 6% | 7% | Majority |
+| 39 | 0.5% | 0.6% |  |
+| 40 | 0.1% | 0.1% |  |
+| 41 | 0% | 0% |  |
+
+### Parti Socialiste – Mouvement Réformateur
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–mr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 31 | 2% | 100% |  |
+| 32 | 5% | 98% |  |
+| 33 | 16% | 92% |  |
+| 34 | 30% | 76% | Median |
+| 35 | 20% | 46% |  |
+| 36 | 16% | 26% |  |
+| 37 | 8% | 10% |  |
+| 38 | 2% | 2% | Majority |
+| 39 | 0.5% | 0.7% |  |
+| 40 | 0.1% | 0.2% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% | Last Result |
 
 ### Parti Socialiste – Ecolo
 
@@ -460,20 +445,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 0.5% | 99.9% |  |
-| 29 | 2% | 99.4% |  |
-| 30 | 4% | 98% |  |
-| 31 | 8% | 94% |  |
-| 32 | 27% | 86% |  |
-| 33 | 25% | 59% | Median |
-| 34 | 15% | 34% |  |
-| 35 | 13% | 18% | Last Result |
-| 36 | 4% | 5% |  |
-| 37 | 0.9% | 1.4% |  |
-| 38 | 0.3% | 0.5% | Majority |
-| 39 | 0.2% | 0.2% |  |
-| 40 | 0% | 0% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.1% | 99.9% |  |
+| 27 | 0.5% | 99.7% |  |
+| 28 | 1.5% | 99.2% |  |
+| 29 | 14% | 98% |  |
+| 30 | 33% | 84% | Median |
+| 31 | 22% | 50% |  |
+| 32 | 15% | 28% |  |
+| 33 | 12% | 13% |  |
+| 34 | 1.2% | 2% |  |
+| 35 | 0.3% | 0.3% | Last Result |
+| 36 | 0% | 0% |  |
 
 ### Parti Socialiste – Les Engagés
 
@@ -481,19 +464,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 1.1% | 99.9% |  |
-| 27 | 6% | 98.8% |  |
-| 28 | 11% | 93% |  |
-| 29 | 20% | 81% |  |
-| 30 | 22% | 61% | Median |
-| 31 | 17% | 39% |  |
-| 32 | 15% | 22% |  |
-| 33 | 4% | 7% | Last Result |
-| 34 | 2% | 2% |  |
-| 35 | 0.5% | 0.8% |  |
-| 36 | 0.2% | 0.2% |  |
-| 37 | 0% | 0% |  |
+| 25 | 0.2% | 100% |  |
+| 26 | 0.9% | 99.7% |  |
+| 27 | 3% | 98.8% |  |
+| 28 | 23% | 96% |  |
+| 29 | 21% | 73% | Median |
+| 30 | 22% | 52% |  |
+| 31 | 22% | 31% |  |
+| 32 | 7% | 8% |  |
+| 33 | 0.7% | 0.9% | Last Result |
+| 34 | 0.1% | 0.2% |  |
+| 35 | 0% | 0% |  |
 
 ### Mouvement Réformateur – Ecolo
 
@@ -501,18 +482,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 0.3% | 99.8% |  |
-| 24 | 0.8% | 99.5% |  |
-| 25 | 2% | 98.7% |  |
-| 26 | 12% | 97% |  |
-| 27 | 16% | 85% |  |
-| 28 | 18% | 70% |  |
-| 29 | 24% | 51% | Median |
-| 30 | 16% | 27% |  |
-| 31 | 10% | 12% |  |
-| 32 | 1.2% | 2% | Last Result |
-| 33 | 0.4% | 0.5% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.5% | 99.9% |  |
+| 26 | 9% | 99.3% |  |
+| 27 | 15% | 91% |  |
+| 28 | 23% | 75% | Median |
+| 29 | 26% | 52% |  |
+| 30 | 17% | 26% |  |
+| 31 | 6% | 9% |  |
+| 32 | 2% | 3% | Last Result |
+| 33 | 0.3% | 0.4% |  |
 | 34 | 0% | 0% |  |
 
 ### Ecolo – Parti du Travail de Belgique
@@ -521,18 +500,20 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.5% | 100% | Last Result |
-| 23 | 1.5% | 99.5% |  |
-| 24 | 4% | 98% |  |
-| 25 | 9% | 94% |  |
-| 26 | 12% | 85% |  |
-| 27 | 30% | 74% |  |
-| 28 | 22% | 43% | Median |
-| 29 | 16% | 21% |  |
-| 30 | 4% | 5% |  |
-| 31 | 0.4% | 0.4% |  |
-| 32 | 0.1% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 22 | 0% | 100% | Last Result |
+| 23 | 0% | 100% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.7% | 99.8% |  |
+| 26 | 2% | 99.1% |  |
+| 27 | 8% | 97% |  |
+| 28 | 15% | 89% |  |
+| 29 | 26% | 74% | Median |
+| 30 | 38% | 48% |  |
+| 31 | 7% | 10% |  |
+| 32 | 2% | 3% |  |
+| 33 | 1.0% | 1.1% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 ### Mouvement Réformateur – Les Engagés
 
@@ -540,19 +521,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.1% | 100% |  |
-| 21 | 0.8% | 99.9% |  |
-| 22 | 2% | 99.1% |  |
-| 23 | 7% | 97% |  |
-| 24 | 10% | 90% |  |
-| 25 | 29% | 80% |  |
-| 26 | 31% | 51% | Median |
-| 27 | 10% | 20% |  |
-| 28 | 5% | 9% |  |
-| 29 | 3% | 4% |  |
-| 30 | 1.4% | 2% | Last Result |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0% | 0% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.6% | 99.9% |  |
+| 25 | 12% | 99.3% |  |
+| 26 | 11% | 87% |  |
+| 27 | 18% | 76% | Median |
+| 28 | 42% | 58% |  |
+| 29 | 12% | 16% |  |
+| 30 | 3% | 4% | Last Result |
+| 31 | 1.2% | 2% |  |
+| 32 | 0.3% | 0.5% |  |
+| 33 | 0.1% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -560,4 +540,4 @@ Only polls for which at least the sample size has been published are included in
 + **Number of polls included in this average:** 1
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
 + **Total number of simulations done in the polls included in this average:** 1,048,576
-+ **Error estimate:** 0.66%
++ **Error estimate:** 0.38%
