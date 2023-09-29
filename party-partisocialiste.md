@@ -10,7 +10,8 @@ Last result: **26.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 24.0–27.5% | 23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
+| N/A | [Poll Average](average.html) | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.5% | 18.6–25.3% |
+| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.5% | 18.6–25.3% |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 25.7% | 24.0–27.5% | 23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 25.7% | 23.3–28.3% | 22.6–29.1% | 22.1–29.7% | 21.0–31.0% |
@@ -36,18 +37,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.8% | 99.9% |  |
-| 22.5–23.5% | 4% | 99.1% |  |
-| 23.5–24.5% | 14% | 95% |  |
-| 24.5–25.5% | 25% | 81% |  |
-| 25.5–26.5% | 28% | 55% | Last Result, Median |
-| 26.5–27.5% | 18% | 28% |  |
-| 27.5–28.5% | 7% | 10% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.4% | 100% |  |
+| 18.5–19.5% | 3% | 99.6% |  |
+| 19.5–20.5% | 12% | 96% |  |
+| 20.5–21.5% | 26% | 84% |  |
+| 21.5–22.5% | 29% | 59% | Median |
+| 22.5–23.5% | 19% | 29% |  |
+| 23.5–24.5% | 8% | 10% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.3% | Last Result |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,7 +58,8 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–24 | 20–24 | 20–25 | 19–27 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–21 | 17–21 | 16–21 |
+| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 17–20 | 17–21 | 17–21 | 16–21 |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22 | 21–24 | 20–24 | 20–25 | 19–27 |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22 | 21–24 | 20–24 | 20–26 | 19–27 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 22 | 20–25 | 20–26 | 19–27 | 17–28 |
@@ -86,17 +87,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0% | 100% |  |
-| 19 | 1.1% | 99.9% |  |
-| 20 | 5% | 98.9% |  |
-| 21 | 17% | 94% |  |
-| 22 | 40% | 76% | Median |
-| 23 | 23% | 36% | Last Result |
-| 24 | 9% | 13% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.0% | 2% |  |
-| 27 | 0.6% | 0.9% |  |
-| 28 | 0.3% | 0.3% |  |
-| 29 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 1.1% | 99.8% |  |
+| 17 | 35% | 98.7% |  |
+| 18 | 18% | 64% | Median |
+| 19 | 23% | 45% |  |
+| 20 | 17% | 22% |  |
+| 21 | 5% | 5% |  |
+| 22 | 0.4% | 0.4% |  |
+| 23 | 0% | 0% | Last Result |
 
 
