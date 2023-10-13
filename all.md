@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
+| [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 23–32% <br> 19–28 | 17–25% <br> 14–21 | 9–15% <br> 6–12 | 16–23% <br> 12–20 | 8–14% <br> 5–11 | 3–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 17–21 | 17–22% <br> 14–19 | 13–17% <br> 10–14 | 17–22% <br> 14–19 | 12–16% <br> 9–13 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23–29% <br> 20–25 | 17–22% <br> 14–20 | 11–15% <br> 7–13 | 17–21% <br> 14–19 | 9–12% <br> 6–11 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23–28% <br> 20–26 | 16–21% <br> 14–19 | 11–15% <br> 8–13 | 15–20% <br> 13–17 | 9–13% <br> 6–11 | 4–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
