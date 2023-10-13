@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 29 Sep 2023 20:23:47 +0200</pubDate>
+    <pubDate>Fri, 13 Oct 2023 18:25:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2023-10-09-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 19–28 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 14–21 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 5–11 seats&lt;/li&gt;&lt;li&gt;Ecolo: 6–12 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 12–20 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2023-10-09-Kantar-seats.png"
+        length="216337"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 18:25:44 +0200</pubDate>
+      <dc:date>2023-10-13T18:25:44.419514+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2023-10-09-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2023-10-09-Kantar-coalitions-seats.png"
+        length="398190"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 18:25:44 +0200</pubDate>
+      <dc:date>2023-10-13T18:25:44.419514+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2023-10-09-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 23.3–31.7%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 17.1–24.7%&lt;/li&gt;&lt;li&gt;Les Engagés: 8.4–14.3%&lt;/li&gt;&lt;li&gt;Ecolo: 9.0–15.1%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 15.8–23.2%&lt;/li&gt;&lt;li&gt;DéFI: 3.0–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2023-10-09-Kantar.png"
+        length="252938"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 18:25:44 +0200</pubDate>
+      <dc:date>2023-10-13T18:25:44.419514+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 18–25 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2023-09-25-Ipsos.html#seats</link>
@@ -579,6 +609,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26+01:00</dc:date>
     </item>
-    <dc:date>2023-09-29T20:23:47.532327+02:00</dc:date>
+    <dc:date>2023-10-13T18:25:44.419514+02:00</dc:date>
   </channel>
 </rss>
