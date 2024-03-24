@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Wed, 21 Feb 2024 22:06:24 +0100</pubDate>
+    <pubDate>Sun, 24 Mar 2024 10:55:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 11–18 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 17–22 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–4 seats&lt;/li&gt;&lt;li&gt;Ecolo: 7–12 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 12–17 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 15–21 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 10–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos-seats.png"
+        length="211268"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2024 10:55:38 +0100</pubDate>
+      <dc:date>2024-03-24T10:55:38.727652+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 11–18 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos-coalitions-seats.png"
+        length="365980"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2024 10:55:38 +0100</pubDate>
+      <dc:date>2024-03-24T10:55:38.727652+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 11–18 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 18.9–24.0%&lt;/li&gt;&lt;li&gt;DéFI: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Ecolo: 10.0–14.1%&lt;/li&gt;&lt;li&gt;Les Engagés: 14.6–19.3%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 18.1–23.1%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 12.8–17.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos.png"
+        length="236661"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2024 10:55:38 +0100</pubDate>
+      <dc:date>2024-03-24T10:55:38.727652+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for Knack and Le Vif, 22 January–8 February 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2024-02-08-Kantar.html#seats</link>
@@ -669,6 +699,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26+01:00</dc:date>
     </item>
-    <dc:date>2024-02-21T22:06:24.426549+01:00</dc:date>
+    <dc:date>2024-03-24T10:55:38.727652+01:00</dc:date>
   </channel>
 </rss>
