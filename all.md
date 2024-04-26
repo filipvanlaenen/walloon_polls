@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | PTB | LE | DÉFI | PP | DROITE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.2% <br> 23 | 21.4% <br> 20 | 14.5% <br> 12 | 13.7% <br> 10 | 11.0% <br> 10 | 4.1% <br> 0 | 3.7% <br> 0 | 0.2% <br> 0 |
+| [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 23–28% <br> 19–24 | 18–23% <br> 15–21 | 11–15% <br> 7–13 | 14–18% <br> 10–16 | 12–16% <br> 10–14 | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 17–22 | 18–23% <br> 15–21 | 10–14% <br> 7–12 | 13–17% <br> 10–15 | 15–19% <br> 13–17 | 4–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 22–27% <br> 18–23 | 18–23% <br> 14–20 | 12–16% <br> 8–13 | 16–21% <br> 14–17 | 11–15% <br> 8–13 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21–27% <br> 19–23 | 18–23% <br> 15–21 | 12–16% <br> 10–14 | 12–16% <br> 9–14 | 12–16% <br> 10–14 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
