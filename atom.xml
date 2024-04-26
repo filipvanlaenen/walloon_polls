@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2024-04-13T17:55:37.366109+02:00</updated>
+  <updated>2024-04-26T09:12:56.028578+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti Socialiste: 22.8–28.2%, 19–24 seats</li><li>Ecolo: 10.8–15.0%, 7–13 seats</li><li>Les Engagés: 11.9–16.2%, 10–14 seats</li><li>DéFI: 3.1–5.6%, 0–2 seats</li><li>Parti du Travail de Belgique: 13.9–18.4%, 10–16 seats</li><li>Mouvement Réformateur: 18.4–23.4%, 15–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2024-04-18-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2024-04-18-Kantar.html"/>
+    <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024</title>
+    <updated>2024-04-26T09:12:56.028578+02:00</updated>
+    <dc:date>2024-04-26T09:12:56.028578+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti Socialiste: 18.9–24.0%, 17–22 seats</li><li>DéFI: 3.6–6.3%, 0–4 seats</li><li>Ecolo: 10.0–14.1%, 7–12 seats</li><li>Les Engagés: 14.6–19.3%, 13–17 seats</li><li>Mouvement Réformateur: 18.1–23.1%, 15–21 seats</li><li>Parti du Travail de Belgique: 12.8–17.3%, 10–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2024-03-18-Ipsos.html</id>
@@ -191,5 +199,5 @@
     <updated>2019-12-18T21:14:26+01:00</updated>
     <dc:date>2019-12-18T21:14:26+01:00</dc:date>
   </entry>
-  <dc:date>2024-04-13T17:55:37.366109+02:00</dc:date>
+  <dc:date>2024-04-26T09:12:56.028578+02:00</dc:date>
 </feed>
