@@ -10,7 +10,8 @@ Last result: **21.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 19.1–22.4% | 18.6–22.9% | 18.3–23.3% | 17.5–24.1% |
+| N/A | [Poll Average](average.html) | 21.7% | 19.7–23.8% | 19.2–24.4% | 18.8–24.9% | 18.0–25.8% |
+| [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.6–22.5% | 16.8–23.3% |
@@ -43,16 +44,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.5% | 100% |  |
-| 17.5–18.5% | 4% | 99.5% |  |
-| 18.5–19.5% | 14% | 96% |  |
-| 19.5–20.5% | 27% | 82% |  |
-| 20.5–21.5% | 29% | 55% | Last Result, Median |
-| 21.5–22.5% | 18% | 26% |  |
-| 22.5–23.5% | 6% | 8% |  |
-| 23.5–24.5% | 1.4% | 2% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 1.4% | 99.8% |  |
+| 18.5–19.5% | 6% | 98% |  |
+| 19.5–20.5% | 15% | 92% |  |
+| 20.5–21.5% | 23% | 77% | Last Result |
+| 21.5–22.5% | 24% | 55% | Median |
+| 22.5–23.5% | 18% | 31% |  |
+| 23.5–24.5% | 9% | 13% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.7% | 0.8% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,7 +66,8 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 20 | 17–21 | 16–22 | 16–23 | 14–25 |
+| [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–22 | 19–23 | 18–23 | 17–25 |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 16–21 | 16–21 | 15–21 | 14–21 |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 17 | 14–18 | 14–19 | 14–20 | 14–21 |
@@ -97,16 +101,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.2% | 100% |  |
-| 15 | 3% | 98.8% |  |
-| 16 | 7% | 96% |  |
-| 17 | 15% | 89% |  |
-| 18 | 26% | 74% | Median |
-| 19 | 20% | 49% |  |
-| 20 | 15% | 29% | Last Result |
-| 21 | 13% | 13% |  |
-| 22 | 0.2% | 0.2% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 14 | 0.8% | 100% |  |
+| 15 | 2% | 99.2% |  |
+| 16 | 3% | 98% |  |
+| 17 | 9% | 95% |  |
+| 18 | 16% | 86% |  |
+| 19 | 14% | 70% |  |
+| 20 | 18% | 55% | Last Result, Median |
+| 21 | 30% | 37% |  |
+| 22 | 5% | 8% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.6% | 1.1% |  |
+| 25 | 0.5% | 0.5% |  |
+| 26 | 0% | 0% |  |
 
 
