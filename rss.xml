@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sun, 26 May 2024 22:34:02 +0200</pubDate>
+    <pubDate>Wed, 05 Jun 2024 18:22:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2024-05-31-Cluster17.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 19–23 seats&lt;/li&gt;&lt;li&gt;Ecolo: 4–7 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 13–18 seats&lt;/li&gt;&lt;li&gt;DéFI: 0–1 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 10–16 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 18–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2024-05-31-Cluster17-seats.png"
+        length="193961"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2024 18:22:38 +0200</pubDate>
+      <dc:date>2024-06-05T18:22:38.056807+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2024-05-31-Cluster17.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2024-05-31-Cluster17-coalitions-seats.png"
+        length="328578"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2024 18:22:38 +0200</pubDate>
+      <dc:date>2024-06-05T18:22:38.056807+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2024-05-31-Cluster17.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Ecolo: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Les Engagés: 15.6–20.4%&lt;/li&gt;&lt;li&gt;DéFI: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 20.5–25.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2024-05-31-Cluster17.png"
+        length="227959"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2024 18:22:38 +0200</pubDate>
+      <dc:date>2024-06-05T18:22:38.056807+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 14–20 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2024-05-20-Ipsos.html#seats</link>
@@ -759,6 +789,6 @@
       <pubDate>Wed, 18 Dec 2019 21:14:26 +0100</pubDate>
       <dc:date>2019-12-18T21:14:26+01:00</dc:date>
     </item>
-    <dc:date>2024-05-26T22:34:02.675183+02:00</dc:date>
+    <dc:date>2024-06-05T18:22:38.056807+02:00</dc:date>
   </channel>
 </rss>
