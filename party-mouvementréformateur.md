@@ -10,7 +10,8 @@ Last result: **21.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 19.7–23.8% | 19.2–24.4% | 18.8–24.9% | 18.0–25.8% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.1–24.3% | 19.5–24.8% | 19.0–25.3% | 18.2–26.2% |
+| [28–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> RTL TVi | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
@@ -44,17 +45,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 1.4% | 99.8% |  |
-| 18.5–19.5% | 6% | 98% |  |
-| 19.5–20.5% | 15% | 92% |  |
-| 20.5–21.5% | 23% | 77% | Last Result |
-| 21.5–22.5% | 24% | 55% | Median |
-| 22.5–23.5% | 18% | 31% |  |
-| 23.5–24.5% | 9% | 13% |  |
-| 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.7% | 0.8% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 1.0% | 99.9% |  |
+| 18.5–19.5% | 4% | 98.9% |  |
+| 19.5–20.5% | 11% | 95% |  |
+| 20.5–21.5% | 18% | 84% | Last Result |
+| 21.5–22.5% | 23% | 65% | Median |
+| 22.5–23.5% | 21% | 42% |  |
+| 23.5–24.5% | 14% | 21% |  |
+| 24.5–25.5% | 5% | 7% |  |
+| 25.5–26.5% | 1.4% | 2% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -66,7 +67,8 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–21 | 16–22 | 16–23 | 14–25 |
+| N/A | [Poll Average](average.html) | 20 | 18–21 | 17–22 | 16–23 | 14–24 |
+| [28–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> RTL TVi | 21 | 19–21 | 18–22 | 18–23 | 17–24 |
 | [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–22 | 19–23 | 18–23 | 17–25 |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 16–21 | 16–21 | 15–21 | 14–21 |
@@ -101,18 +103,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.8% | 100% |  |
-| 15 | 2% | 99.2% |  |
-| 16 | 3% | 98% |  |
-| 17 | 9% | 95% |  |
-| 18 | 16% | 86% |  |
-| 19 | 14% | 70% |  |
-| 20 | 18% | 55% | Last Result, Median |
-| 21 | 30% | 37% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 1.1% | 99.5% |  |
+| 16 | 2% | 98% |  |
+| 17 | 6% | 96% |  |
+| 18 | 13% | 90% |  |
+| 19 | 12% | 78% |  |
+| 20 | 21% | 66% | Last Result, Median |
+| 21 | 37% | 45% |  |
 | 22 | 5% | 8% |  |
 | 23 | 2% | 3% |  |
-| 24 | 0.6% | 1.1% |  |
-| 25 | 0.5% | 0.5% |  |
+| 24 | 0.5% | 1.0% |  |
+| 25 | 0.4% | 0.4% |  |
 | 26 | 0% | 0% |  |
 
 
