@@ -12,7 +12,7 @@ Last result: **7.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.2% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.1% | N/A | N/A | N/A | N/A |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 
 ### Probability Mass Function
 
@@ -38,9 +38,9 @@ Last result: **5** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 3–7 | 3–7 | 1–8 |
-| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 5–6 | 3–7 | 3–7 | 1–8 |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 3–7 | 2–7 | 1–8 |
+| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 5–6 | 3–7 | 2–7 | 1–8 |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 5–6 | 4–6 | 3–7 | 1–8 |
 
 ### Probability Mass Function
 
@@ -50,12 +50,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% |  |
-| 2 | 1.4% | 98.9% |  |
-| 3 | 3% | 98% |  |
+| 1 | 1.0% | 100% |  |
+| 2 | 2% | 99.0% |  |
+| 3 | 2% | 97% |  |
 | 4 | 2% | 95% |  |
-| 5 | 66% | 93% | Last Result, Median |
-| 6 | 20% | 27% |  |
+| 5 | 67% | 93% | Last Result, Median |
+| 6 | 20% | 26% |  |
 | 7 | 5% | 6% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |

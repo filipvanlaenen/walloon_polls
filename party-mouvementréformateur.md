@@ -12,7 +12,7 @@ Last result: **29.6%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.4% | 25.6–29.3% | 25.2–29.8% | 24.7–30.2% | 23.9–31.2% |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26.6% | N/A | N/A | N/A | N/A |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26.6% | 24.9–28.5% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
 
 ### Probability Mass Function
 
@@ -44,7 +44,7 @@ Last result: **26** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–27 | 20–27 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23 | 21–25 | 21–26 | 20–27 | 20–27 |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM |  |  |  |  |  |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22 | 21–24 | 21–25 | 20–25 | 20–27 |
 
 ### Probability Mass Function
 
@@ -56,14 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
 | 20 | 4% | 99.9% |  |
-| 21 | 21% | 96% |  |
-| 22 | 18% | 75% |  |
-| 23 | 23% | 57% | Median |
+| 21 | 22% | 96% |  |
+| 22 | 17% | 74% |  |
+| 23 | 22% | 57% | Median |
 | 24 | 14% | 35% |  |
 | 25 | 13% | 21% |  |
-| 26 | 4% | 8% | Last Result |
+| 26 | 5% | 8% | Last Result |
 | 27 | 3% | 3% |  |
-| 28 | 0.4% | 0.4% |  |
+| 28 | 0.5% | 0.5% |  |
 | 29 | 0% | 0% |  |
 
 

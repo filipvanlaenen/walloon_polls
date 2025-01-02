@@ -12,7 +12,7 @@ Last result: **20.6%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.6% | N/A | N/A | N/A | N/A |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 
 ### Probability Mass Function
 
@@ -43,7 +43,7 @@ Last result: **17** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–19 | 15–21 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–19 | 15–19 | 15–19 | 15–21 |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM |  |  |  |  |  |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 18–21 | 17–21 | 16–22 | 15–22 |
 
 ### Probability Mass Function
 
@@ -53,14 +53,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.4% | 100% |  |
-| 15 | 31% | 99.6% |  |
+| 14 | 0.3% | 100% |  |
+| 15 | 30% | 99.6% |  |
 | 16 | 14% | 69% |  |
-| 17 | 19% | 55% | Last Result, Median |
-| 18 | 14% | 36% |  |
+| 17 | 18% | 55% | Last Result, Median |
+| 18 | 14% | 37% |  |
 | 19 | 21% | 23% |  |
 | 20 | 2% | 2% |  |
-| 21 | 0.5% | 0.5% |  |
+| 21 | 0.6% | 0.6% |  |
 | 22 | 0% | 0% |  |
 
 
