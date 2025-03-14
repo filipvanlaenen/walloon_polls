@@ -11,6 +11,7 @@ Last result: **2.8%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 
@@ -37,6 +38,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 
@@ -48,10 +50,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 1.2% | 20% |  |
-| 2 | 18% | 19% |  |
-| 3 | 1.0% | 1.0% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0.3% | 16% |  |
+| 2 | 15% | 16% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 
