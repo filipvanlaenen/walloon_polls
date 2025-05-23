@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | MR | PS | LE | PTB | ECOLO | CN | DÉFI | CC | RMC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 29.6% <br> 26 | 23.2% <br> 19 | 20.6% <br> 17 | 12.1% <br> 8 | 7.0% <br> 5 | 2.8% <br> 0 | 2.7% <br> 0 | 1.6% <br> 0 | 0.3% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–28% <br> 18–23 | 23–29% <br> 18–23 | 16–21% <br> 13–17 | 15–20% <br> 11–16 | 6–10% <br> 2–7 | 2–4% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–27% <br> 18–23 | 23–28% <br> 18–23 | 17–22% <br> 13–19 | 15–20% <br> 11–15 | 6–9% <br> 1–7 | 2–4% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 22–26% <br> 19–22 | 22–26% <br> 18–23 | 18–22% <br> 15–19 | 15–18% <br> 12–15 | 6–8% <br> 1–5 | 2–4% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22–28% <br> 18–23 | 23–29% <br> 18–23 | 16–21% <br> 13–17 | 15–20% <br> 11–16 | 6–10% <br> 2–7 | 2–4% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 29.6% <br> 26 | 23.2% <br> 19 | 20.6% <br> 17 | 12.1% <br> 8 | 7.0% <br> 5 | 2.8% <br> 0 | 2.7% <br> 0 | 1.6% <br> 0 | 0.3% <br> 0 |
 
