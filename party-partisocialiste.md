@@ -45,7 +45,7 @@ Last result: **19** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–23 | 19–23 | 18–23 | 17–24 |
-| [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 19 | 19–22 | 18–23 | 18–23 | 17–23 |
+| [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 19 | 19–22 | 18–23 | 18–23 | 18–23 |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 19–23 | 19–23 | 18–23 | 17–25 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 18–22 | 18–23 | 18–23 | 17–24 |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 17–19 | 16–19 | 16–19 | 16–21 |
@@ -58,12 +58,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.6% | 100% |  |
-| 18 | 4% | 99.4% |  |
-| 19 | 37% | 95% | Last Result |
-| 20 | 17% | 58% | Median |
-| 21 | 16% | 42% |  |
-| 22 | 15% | 26% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 4% | 99.5% |  |
+| 19 | 36% | 95% | Last Result |
+| 20 | 18% | 59% | Median |
+| 21 | 15% | 41% |  |
+| 22 | 14% | 26% |  |
 | 23 | 10% | 11% |  |
 | 24 | 0.8% | 1.1% |  |
 | 25 | 0.3% | 0.4% |  |
