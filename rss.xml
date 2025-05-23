@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
+    <pubDate>Fri, 23 May 2025 21:31:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB-seats.png"
         length="188935"
         type="image/png"/>
-      <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
-      <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+      <pubDate>Fri, 23 May 2025 21:31:35 +0200</pubDate>
+      <dc:date>2025-05-23T21:31:35.822454+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB-coalitions-seats.png"
-        length="333443"
+        length="335052"
         type="image/png"/>
-      <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
-      <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+      <pubDate>Fri, 23 May 2025 21:31:35 +0200</pubDate>
+      <dc:date>2025-05-23T21:31:35.822454+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.png"
         length="227905"
         type="image/png"/>
-      <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
-      <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+      <pubDate>Fri, 23 May 2025 21:31:35 +0200</pubDate>
+      <dc:date>2025-05-23T21:31:35.822454+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–11 March 2025 – Seat Projections for the Parties</title>
@@ -129,6 +129,6 @@
       <pubDate>Thu, 02 Jan 2025 22:05:06 +0100</pubDate>
       <dc:date>2025-01-02T22:05:06.716883+01:00</dc:date>
     </item>
-    <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+    <dc:date>2025-05-23T21:31:35.822454+02:00</dc:date>
   </channel>
 </rss>
