@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 14 Mar 2025 21:17:40 +0100</pubDate>
+    <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 12–15 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste: 18–23 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 15–19 seats&lt;/li&gt;&lt;li&gt;Chez Nous: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 19–22 seats&lt;/li&gt;&lt;li&gt;Ecolo: 1–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB-seats.png"
+        length="188935"
+        type="image/png"/>
+      <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
+      <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB-coalitions-seats.png"
+        length="333443"
+        type="image/png"/>
+      <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
+      <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 15.1–18.4%&lt;/li&gt;&lt;li&gt;Parti Socialiste: 22.5–26.2%&lt;/li&gt;&lt;li&gt;Les Engagés: 18.3–21.8%&lt;/li&gt;&lt;li&gt;Chez Nous: 2.5–4.0%&lt;/li&gt;&lt;li&gt;DéFI: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 22.1–25.9%&lt;/li&gt;&lt;li&gt;Ecolo: 5.6–7.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.png"
+        length="227905"
+        type="image/png"/>
+      <pubDate>Fri, 23 May 2025 21:22:28 +0200</pubDate>
+      <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–11 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2025-03-11-Ipsos.html#seats</link>
@@ -99,6 +129,6 @@
       <pubDate>Thu, 02 Jan 2025 22:05:06 +0100</pubDate>
       <dc:date>2025-01-02T22:05:06.716883+01:00</dc:date>
     </item>
-    <dc:date>2025-03-14T21:17:40.448471+01:00</dc:date>
+    <dc:date>2025-05-23T21:22:28.352972+02:00</dc:date>
   </channel>
 </rss>
