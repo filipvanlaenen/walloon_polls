@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 07 Jun 2025 17:25:10 +0200</pubDate>
+    <pubDate>Sat, 27 Sep 2025 11:33:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 16–23 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 13–16 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste: 18–24 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 12–17 seats&lt;/li&gt;&lt;li&gt;Chez Nous: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 17–22 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos-seats.png"
+        length="205371"
+        type="image/png"/>
+      <pubDate>Sat, 27 Sep 2025 11:33:00 +0200</pubDate>
+      <dc:date>2025-09-27T11:33:00.501633+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 16–23 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos-coalitions-seats.png"
+        length="339712"
+        type="image/png"/>
+      <pubDate>Sat, 27 Sep 2025 11:33:00 +0200</pubDate>
+      <dc:date>2025-09-27T11:33:00.501633+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 16–23 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Parti Socialiste: 23.6–29.0%&lt;/li&gt;&lt;li&gt;Les Engagés: 15.9–20.7%&lt;/li&gt;&lt;li&gt;Chez Nous: 1.9–4.0%&lt;/li&gt;&lt;li&gt;DéFI: 1.9–3.9%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Ecolo: 6.2–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos.png"
+        length="242409"
+        type="image/png"/>
+      <pubDate>Sat, 27 Sep 2025 11:33:00 +0200</pubDate>
+      <dc:date>2025-09-27T11:33:00.501633+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 May–3 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2025-06-03-Ipsos.html#seats</link>
@@ -159,6 +189,6 @@
       <pubDate>Thu, 02 Jan 2025 22:05:06 +0100</pubDate>
       <dc:date>2025-01-02T22:05:06.716883+01:00</dc:date>
     </item>
-    <dc:date>2025-06-07T17:25:10.742825+02:00</dc:date>
+    <dc:date>2025-09-27T11:33:00.501633+02:00</dc:date>
   </channel>
 </rss>
