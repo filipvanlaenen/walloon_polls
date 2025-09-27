@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2025-06-07T17:25:10.742825+02:00</updated>
+  <updated>2025-09-27T11:33:00.501633+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique: 16.1–20.9%, 13–16 seats</li><li>Parti Socialiste: 23.6–29.0%, 18–24 seats</li><li>Les Engagés: 15.9–20.7%, 12–17 seats</li><li>Chez Nous: 1.9–4.0%, 0–2 seats</li><li>DéFI: 1.9–3.9%, 0 seats</li><li>Mouvement Réformateur: 21.4–26.6%, 17–22 seats</li><li>Ecolo: 6.2–9.5%, 2–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2025-09-23-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 16–23 September 2025</title>
+    <updated>2025-09-27T11:33:00.501633+02:00</updated>
+    <dc:date>2025-09-27T11:33:00.501633+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique: 14.6–19.3%, 11–15 seats</li><li>Parti Socialiste: 22.9–28.3%, 18–23 seats</li><li>Les Engagés: 16.9–21.8%, 14–19 seats</li><li>Chez Nous: 1.9–4.0%, 0–2 seats</li><li>DéFI: 1.9–3.9%, 0 seats</li><li>Mouvement Réformateur: 21.4–26.7%, 17–22 seats</li><li>Ecolo: 7.0–10.5%, 4–8 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2025-06-03-Ipsos.html</id>
@@ -47,5 +55,5 @@
     <updated>2025-01-02T22:05:06.716883+01:00</updated>
     <dc:date>2025-01-02T22:05:06.716883+01:00</dc:date>
   </entry>
-  <dc:date>2025-06-07T17:25:10.742825+02:00</dc:date>
+  <dc:date>2025-09-27T11:33:00.501633+02:00</dc:date>
 </feed>
