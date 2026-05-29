@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Sat, 14 Mar 2026 10:06:55 +0100</pubDate>
+    <pubDate>Fri, 29 May 2026 19:05:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 9 March–5 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 14–18 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste: 19–23 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 14–18 seats&lt;/li&gt;&lt;li&gt;Chez Nous: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 16–20 seats&lt;/li&gt;&lt;li&gt;Ecolo: 1–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB-seats.png"
+        length="194703"
+        type="image/png"/>
+      <pubDate>Fri, 29 May 2026 19:05:37 +0200</pubDate>
+      <dc:date>2026-05-29T19:05:37.396054+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 9 March–5 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB-coalitions-seats.png"
+        length="335001"
+        type="image/png"/>
+      <pubDate>Fri, 29 May 2026 19:05:37 +0200</pubDate>
+      <dc:date>2026-05-29T19:05:37.396054+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 9 March–5 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 17.9–21.5%&lt;/li&gt;&lt;li&gt;Parti Socialiste: 23.0–26.9%&lt;/li&gt;&lt;li&gt;Les Engagés: 16.9–20.5%&lt;/li&gt;&lt;li&gt;Chez Nous: 2.5–4.1%&lt;/li&gt;&lt;li&gt;DéFI: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 19.1–22.8%&lt;/li&gt;&lt;li&gt;Ecolo: 5.5–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB.png"
+        length="230717"
+        type="image/png"/>
+      <pubDate>Fri, 29 May 2026 19:05:37 +0200</pubDate>
+      <dc:date>2026-05-29T19:05:37.396054+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–9 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2026-03-09-Ipsos.html#seats</link>
@@ -69,6 +99,6 @@
       <pubDate>Tue, 20 Jan 2026 22:11:22 +0100</pubDate>
       <dc:date>2026-01-20T22:11:22.133924+01:00</dc:date>
     </item>
-    <dc:date>2026-03-14T10:06:55.700072+01:00</dc:date>
+    <dc:date>2026-05-29T19:05:37.396054+02:00</dc:date>
   </channel>
 </rss>
