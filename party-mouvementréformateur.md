@@ -10,7 +10,8 @@ Last result: **29.6%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 19.6–22.4% | 19.2–22.9% | 18.8–23.3% | 18.1–24.1% |
+| N/A | [Poll Average](average.html) | 20.6% | 19.0–22.0% | 18.5–22.4% | 18.1–22.7% | 17.3–23.4% |
+| [1–9 June 2026](2026-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20.1% | 18.5–21.8% | 18.1–22.2% | 17.7–22.7% | 17.0–23.5% |
 | [9 March–5 April 2026](2026-04-05-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 20.9% | 19.7–22.1% | 19.4–22.5% | 19.1–22.8% | 18.5–23.4% |
 | [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21.3% | 19.7–23.1% | 19.3–23.6% | 18.9–24.0% | 18.2–24.8% |
@@ -27,16 +28,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.3% | 99.9% |  |
-| 18.5–19.5% | 8% | 98.6% |  |
-| 19.5–20.5% | 25% | 90% |  |
-| 20.5–21.5% | 35% | 65% | Median |
-| 21.5–22.5% | 21% | 30% |  |
-| 22.5–23.5% | 7% | 8% |  |
-| 23.5–24.5% | 1.3% | 2% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.8% | 99.9% |  |
+| 17.5–18.5% | 5% | 99.1% |  |
+| 18.5–19.5% | 15% | 94% |  |
+| 19.5–20.5% | 29% | 80% |  |
+| 20.5–21.5% | 32% | 51% | Median |
+| 21.5–22.5% | 15% | 19% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.4% | 0.4% |  |
+| 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -52,7 +54,8 @@ Last result: **26** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–19 | 16–20 | 15–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
+| [1–9 June 2026](2026-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 14–18 | 14–18 | 13–19 | 13–20 |
 | [9 March–5 April 2026](2026-04-05-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 16–19 | 15–20 | 15–20 | 13–20 |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 16–19 | 15–20 | 15–20 | 14–20 |
@@ -71,15 +74,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 0.4% | 99.7% |  |
-| 15 | 2% | 99.3% |  |
-| 16 | 4% | 97% |  |
-| 17 | 42% | 93% |  |
-| 18 | 24% | 51% | Median |
-| 19 | 21% | 28% |  |
-| 20 | 6% | 6% |  |
-| 21 | 0.3% | 0.3% |  |
+| 13 | 2% | 100% |  |
+| 14 | 3% | 98% |  |
+| 15 | 8% | 95% |  |
+| 16 | 8% | 87% |  |
+| 17 | 42% | 80% | Median |
+| 18 | 15% | 37% |  |
+| 19 | 18% | 22% |  |
+| 20 | 4% | 4% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
