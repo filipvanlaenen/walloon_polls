@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/walloon_polls</id>
   <title>All Registered Polls for the Walloon Parliament</title>
-  <updated>2026-05-29T19:05:37.396054+02:00</updated>
+  <updated>2026-06-13T16:06:26.972878+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique: 14.6–19.2%, 11–15 seats</li><li>Parti Socialiste: 26.3–31.9%, 21–27 seats</li><li>Les Engagés: 17.8–22.8%, 15–20 seats</li><li>Chez Nous: 1.9–4.0%, 0–2 seats</li><li>DéFI: 1.9–3.9%, 0 seats</li><li>Mouvement Réformateur: 17.7–22.7%, 13–19 seats</li><li>Ecolo: 6.6–9.9%, 3–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/walloon_polls/2026-06-09-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/walloon_polls/2026-06-09-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 June 2026</title>
+    <updated>2026-06-13T16:06:26.972878+02:00</updated>
+    <dc:date>2026-06-13T16:06:26.972878+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique: 17.9–21.5%, 14–18 seats</li><li>Parti Socialiste: 23.0–26.9%, 19–23 seats</li><li>Les Engagés: 16.9–20.5%, 14–18 seats</li><li>Chez Nous: 2.5–4.1%, 0–2 seats</li><li>DéFI: 2.4–3.9%, 0 seats</li><li>Mouvement Réformateur: 19.1–22.8%, 16–20 seats</li><li>Ecolo: 5.5–7.7%, 1–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/walloon_polls/2026-04-05-BpactandUniversiteitAntwerpenULB.html</id>
@@ -31,5 +39,5 @@
     <updated>2026-01-20T22:11:22.133924+01:00</updated>
     <dc:date>2026-01-20T22:11:22.133924+01:00</dc:date>
   </entry>
-  <dc:date>2026-05-29T19:05:37.396054+02:00</dc:date>
+  <dc:date>2026-06-13T16:06:26.972878+02:00</dc:date>
 </feed>
