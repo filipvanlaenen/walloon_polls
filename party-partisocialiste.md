@@ -52,8 +52,8 @@ Last result: **19** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 23–26 | 23–26 | 21–26 | 20–27 |
-| [8–15 September 2026](2026-09-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23 | 23–26 | 23–26 | 21–26 | 20–27 |
+| N/A | [Poll Average](average.html) | 23 | 22–26 | 22–26 | 21–26 | 20–27 |
+| [8–15 September 2026](2026-09-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [1–9 June 2026](2026-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24 | 23–26 | 22–26 | 21–27 | 19–28 |
 | [9 March–5 April 2026](2026-04-05-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23 | 22–25 | 20–26 | 20–26 | 19–27 |
@@ -73,16 +73,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.2% | 100% | Last Result |
-| 20 | 0.9% | 99.8% |  |
-| 21 | 2% | 98.9% |  |
-| 22 | 2% | 97% |  |
-| 23 | 67% | 95% | Median |
-| 24 | 9% | 28% |  |
-| 25 | 5% | 19% |  |
-| 26 | 12% | 13% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.4% | 0.4% |  |
+| 19 | 0.3% | 100% | Last Result |
+| 20 | 1.3% | 99.7% |  |
+| 21 | 2% | 98% |  |
+| 22 | 6% | 96% |  |
+| 23 | 43% | 90% | Median |
+| 24 | 13% | 46% |  |
+| 25 | 16% | 33% |  |
+| 26 | 15% | 17% |  |
+| 27 | 1.2% | 2% |  |
+| 28 | 0.3% | 0.3% |  |
 | 29 | 0% | 0% |  |
 
 

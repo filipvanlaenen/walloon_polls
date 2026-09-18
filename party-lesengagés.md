@@ -50,8 +50,8 @@ Last result: **17** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–15 | 13–15 | 13–15 | 12–18 |
-| [8–15 September 2026](2026-09-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14 | 13–15 | 13–15 | 13–15 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–15 | 13–15 | 12–15 | 11–16 |
+| [8–15 September 2026](2026-09-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15 | 13–15 | 13–15 | 12–15 | 11–16 |
 | [1–9 June 2026](2026-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15 | 15–18 | 15–19 | 15–20 | 14–20 |
 | [9 March–5 April 2026](2026-04-05-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 15 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15 | 15–17 | 15–18 | 14–19 | 13–20 |
@@ -71,14 +71,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 1.4% | 99.8% |  |
-| 13 | 15% | 98% |  |
-| 14 | 35% | 84% | Median |
-| 15 | 47% | 48% |  |
-| 16 | 0.2% | 2% |  |
-| 17 | 0% | 1.4% | Last Result |
-| 18 | 1.3% | 1.4% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.5% | 99.9% |  |
+| 12 | 2% | 99.4% |  |
+| 13 | 23% | 97% |  |
+| 14 | 21% | 75% |  |
+| 15 | 53% | 54% | Median |
+| 16 | 0.6% | 0.9% |  |
+| 17 | 0.1% | 0.4% | Last Result |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
