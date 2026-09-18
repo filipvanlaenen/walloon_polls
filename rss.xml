@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Walloon Parliament</title>
     <link>https://filipvanlaenen.github.io/walloon_polls</link>
     <description>All Registered Polls for the Walloon Parliament</description>
-    <pubDate>Fri, 18 Sep 2026 21:58:51 +0200</pubDate>
+    <pubDate>Fri, 18 Sep 2026 22:56:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 8–15 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2026-09-15-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique: 13–16 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste: 21–26 seats&lt;/li&gt;&lt;li&gt;Les Engagés: 12–15 seats&lt;/li&gt;&lt;li&gt;Chez Nous: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 13–19 seats&lt;/li&gt;&lt;li&gt;Ecolo: 4–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2026-09-15-Ipsos-seats.png"
+        length="196265"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2026 22:56:03 +0200</pubDate>
+      <dc:date>2026-09-18T22:56:03.537784+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 8–15 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/walloon_polls/2026-09-15-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2026-09-15-Ipsos-coalitions-seats.png"
+        length="329804"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2026 22:56:03 +0200</pubDate>
+      <dc:date>2026-09-18T22:56:03.537784+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 8–15 September 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/walloon_polls/2026-09-15-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/walloon_polls/2026-09-15-Ipsos.png"
         length="243019"
         type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 21:58:51 +0200</pubDate>
-      <dc:date>2026-09-18T21:58:51.44581+02:00</dc:date>
+      <pubDate>Fri, 18 Sep 2026 22:56:03 +0200</pubDate>
+      <dc:date>2026-09-18T22:56:03.537784+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 June 2026 – Seat Projections for the Parties</title>
@@ -139,6 +159,6 @@
       <pubDate>Tue, 20 Jan 2026 22:11:22 +0100</pubDate>
       <dc:date>2026-01-20T22:11:22.133924+01:00</dc:date>
     </item>
-    <dc:date>2026-09-18T21:58:51.44581+02:00</dc:date>
+    <dc:date>2026-09-18T22:56:03.537784+02:00</dc:date>
   </channel>
 </rss>
